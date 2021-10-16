@@ -14,10 +14,10 @@ author: Elisa Legnani
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
+  Cosmology: "cosmology"
+  Direct3D: "direct3d"
+  About me: "aboutme"  
+  Contact me: "contact"
 
 # --- Logo --- #
 
