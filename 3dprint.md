@@ -22,6 +22,6 @@ More in details, I elaborated the brain computed tomography data acquired from p
 
 I published this work as first author: <br>
 E. Legnani, et al., **Additive fabrication of a vascular 3D phantom for stereotactic radiosurgery of arteriovenous malformations**, *3D Printing and Additive Manufacturing*, Aug 2021, 217-226 <br>
-Read it [here](https://www.liebertpub.com/doi/10.1089/3dp.2020.0305).
+You can read it [here](https://www.liebertpub.com/doi/10.1089/3dp.2020.0305).
 
 <img height=300 align="center" src="https://user-images.githubusercontent.com/62106779/137633087-24261148-aef9-48b4-b1a8-aee56e2365d8.jpg"/>
