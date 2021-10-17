@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Welcome to my homepage!
+title: Hello, I am Elisa Legnani
 ---
 
 I am a physicist doing research for my Master thesis at the Ludwig Maximilians University (LMU) in Munich.
