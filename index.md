@@ -19,9 +19,6 @@ Via M. Colonna 46 <br>
 elegnani97@gmail.com
 
 <br>
-<br>
-<br>
-<br>
 
 I am a physicist at the University of Milan doing research for my Master thesis at the Ludwig Maximilians University (LMU) in Munich.
 
