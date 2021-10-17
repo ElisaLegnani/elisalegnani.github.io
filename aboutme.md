@@ -1,6 +1,10 @@
 ---
 layout: page
 title: About me
-subtitle: Something more about me
 ---
 
+My CV
+
+Contact info
+
+Hobbies
