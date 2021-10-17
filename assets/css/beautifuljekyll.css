@@ -1101,9 +1101,6 @@ pre {
   }
 }
 
-img[src$="#image_circle"] {
-  display: block;
-  margin: 0 auto;
+.circular-img {
   border-radius: 50%;
-  max-width: 50%;
 }
