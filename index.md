@@ -1,10 +1,9 @@
 ---
 layout: home
-title: Elisa Legnani
-subtitle: MSc student in Physics
+title: Welcome to my homepage!
 ---
 
-Intro
+I am a physicist doing research for my Master thesis at the Ludwig Maximilians University (LMU) in Munich.
 
 ### Research interests
 
