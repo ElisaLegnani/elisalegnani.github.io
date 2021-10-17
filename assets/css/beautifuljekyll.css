@@ -1100,3 +1100,11 @@ pre {
     display: inline-block;
   }
 }
+
+#circular images
+img[src$="#image_circle"] {
+  display: block;
+  margin: 0 auto;
+  border-radius: 50%;
+  max-width: 50%;
+}
