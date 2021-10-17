@@ -14,7 +14,6 @@ Office 018
 
 <img class="thumbnail-img" align="left" height=15 src="/assets/img/img_mail.png"/> [elegnani97@gmail.com](mailto:elegnani97@gmail.com)
 
-<br>
 
 I am a physicist at the University of Milan doing research for my Master thesis at the Ludwig Maximilians University (LMU) in Munich.
 
