@@ -1108,7 +1108,7 @@ pre {
 }
 
 .thumbnail-img {
-  vertical-align: bottom;
+  vertical-align: text-bottom;
   margin-left: 0.2rem;
   margin-right: 0.5rem;
 }
