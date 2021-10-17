@@ -3,7 +3,9 @@ layout: home
 title: Hello, I am Elisa Legnani
 ---
 
-<img class="circular-img" align="left" width=240 src="https://user-images.githubusercontent.com/62106779/137625586-57dcda5d-302e-4226-bc19-102b6a67537b.jpg"/>
+<img class="circular-img" align="left" width=230 src="https://user-images.githubusercontent.com/62106779/137625586-57dcda5d-302e-4226-bc19-102b6a67537b.jpg"/>
+
+<br>
 
 <img class="thumbnail-img" align="left" height=24 src="/assets/img/img_location.png"/> **University Observatory Munich (USM)** <br>
 Scheinerstraβe 1 <br>
@@ -11,6 +13,8 @@ Scheinerstraβe 1 <br>
 Office 018
 
 <img class="thumbnail-img" align="left" height=18 src="/assets/img/img_mail.png"/> [elegnani97@gmail.com](mailto:elegnani97@gmail.com)
+
+<br>
 
 I am a physicist at the University of Milan doing research for my Master thesis at the Ludwig Maximilians University in Munich.
 
