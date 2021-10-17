@@ -10,6 +10,8 @@ I showcased our product in various trade fairs in Europe. I built and maintained
 
 See our website [here](https://www.direct3d.it) for more infos. We are also active on [LinkedIn](https://www.linkedin.com/company/direct3d-pellet-extrusion/).
 
+<img heigh=400 src="https://user-images.githubusercontent.com/62106779/137629860-4dadbd5e-7cdf-43c2-b20d-e86c88fa5e0a.png"/>
+
 ## Publication
 
 For my Bachelor's degree thesis project I developed and tested an efficient methodology for manufacturing realistic 3D cerebrovascular phantoms resembling brain arteriovenous malformations for applications in stereotactic radiosurgery.
@@ -20,7 +22,4 @@ I published this work as first author: <br>
 E. Legnani, et al., **Additive fabrication of a vascular 3D phantom for stereotactic radiosurgery of arteriovenous malformations**, *3D Printing and Additive Manufacturing*, Aug 2021, 217-226 <br>
 Read it [here](https://www.liebertpub.com/doi/10.1089/3dp.2020.0305).
 
-
-<br>
-
-<img heigh=400 src="https://user-images.githubusercontent.com/62106779/137629860-4dadbd5e-7cdf-43c2-b20d-e86c88fa5e0a.png"/>
+<img heigh=200 align="center" src="https://user-images.githubusercontent.com/62106779/137633087-24261148-aef9-48b4-b1a8-aee56e2365d8.jpg"/>
