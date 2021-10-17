@@ -1103,4 +1103,6 @@ pre {
 
 .circular-img {
   border-radius: 50%;
+  margin-left: 0.625rem;
+  margin-right: 0.625rem;
 }
