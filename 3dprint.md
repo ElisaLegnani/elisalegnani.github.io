@@ -20,7 +20,7 @@ For my Bachelor's degree thesis project I developed and tested an efficient meth
 
 <img class="post-img" height=200 align="right" src="https://user-images.githubusercontent.com/62106779/137633087-24261148-aef9-48b4-b1a8-aee56e2365d8.jpg"/>
 
-More in details, I elaborated the brain computed tomography data acquired from patients and developed two main manufacturing techniques, involving 3D print and the use of tissue-equivalent materials for radiology, for the phantoms fabrication. I tested the radiological response of these phantom and compared it with the one of the clinical cases. Results were very good and suggested that these systems have potential to be used as enabling tools for radiosurgery pre-planning, quality assurance and medical research.
+More in details, I elaborated the brain computed tomography data acquired from patients and developed two main manufacturing techniques, involving 3D print and the use of tissue-equivalent materials for radiology, for the phantoms' fabrication. I tested the radiological response of these phantoms and compared it with the one of the clinical cases. Results were very good and suggested that these systems have potential to be used as enabling tools for radiosurgery pre-planning, quality assurance and medical research.
 
 I published this work as first author: <br>
 E. Legnani, et al., **Additive fabrication of a vascular 3D phantom for stereotactic radiosurgery of arteriovenous malformations**, *3D Printing and Additive Manufacturing*, Aug 2021, 217-226 <br>
