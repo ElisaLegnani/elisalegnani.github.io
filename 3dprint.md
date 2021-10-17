@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 3D print
+title: 3D Print
 ---
 ## Direct3D
 
