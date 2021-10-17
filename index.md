@@ -5,13 +5,13 @@ title: Hello, I am Elisa Legnani
 
 I am a physicist at the University of Milan doing research for my Master thesis at the Ludwig Maximilians University (LMU) in Munich.
 
-### Research interests
+## Research interests
 
-#### Cosmology
+### Cosmology
 
-#### 3D print
+### 3D print
 
-### Hobbies
+## Hobbies
 
 I like outdoor activities, especially mountain trekking and cycling. I also enjoy taking photos of the stunning landscapes I encounter on my way.
 
