@@ -7,12 +7,12 @@ title: Hello, I am Elisa Legnani
 
 <br>
 
-<img align="left" height=20 src="/assets/img/img_location.png"/>    **University Observatory Munich (USM)** <br>
+<img align="left" vertical-align="bottom" height=20 src="/assets/img/img_location.png"/> **University Observatory Munich (USM)** <br>
 Scheinerstraβe 1 <br>
 81679 Munich, Germany <br>
 Office 018
 
-<img align="left" height=18 src="/assets/img/img_mail.png"/>    [elegnani97@gmail.com](mailto:elegnani97@gmail.com)
+<img align="left" height=15 vertical-align="bottom" src="/assets/img/img_mail.png"/> [elegnani97@gmail.com](mailto:elegnani97@gmail.com)
 
 <br>
 
