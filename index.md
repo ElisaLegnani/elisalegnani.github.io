@@ -12,9 +12,6 @@ Scheinerstraβe 1 <br>
 81679 Munich, Germany <br>
 Office 018
 
-Via M. Colonna 46 <br>
-20149 Milano, Italy
-
 [elegnani97@gmail.com](mailto:elegnani97@gmail.com)
 
 <br>
