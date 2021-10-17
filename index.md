@@ -3,17 +3,16 @@ layout: home
 title: Hello, I am Elisa Legnani
 ---
 
-
 <img class="circular-img" align="left" width=250 src="https://user-images.githubusercontent.com/62106779/137625586-57dcda5d-302e-4226-bc19-102b6a67537b.jpg"/>
 
 <br>
 
-**University Observatory Munich (USM)** <br>
+<img align="left" width=15 src="/assets/img/img_location.png"/> **University Observatory Munich (USM)** <br>
 Scheinerstraβe 1 <br>
 81679 Munich, Germany <br>
 Office 018
 
-[elegnani97@gmail.com](mailto:elegnani97@gmail.com)
+<img align="left" width=18 src="/assets/img/img_mail.png"/> [elegnani97@gmail.com](mailto:elegnani97@gmail.com)
 
 <br>
 
