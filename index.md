@@ -4,8 +4,12 @@ title: Elisa Legnani
 subtitle: MSc student in Physics
 ---
 
-Try to add some lines
+Intro
 
-To see if it looks good
+### Research interests
 
-:)
+#### Cosmology
+
+#### 3D print
+
+### Hobbies
