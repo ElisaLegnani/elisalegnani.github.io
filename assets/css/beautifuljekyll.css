@@ -1101,7 +1101,6 @@ pre {
   }
 }
 
-#circular images
 img[src$="#image_circle"] {
   display: block;
   margin: 0 auto;
