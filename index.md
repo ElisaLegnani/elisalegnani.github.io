@@ -16,7 +16,7 @@ Office 018
 Via M. Colonna 46 <br>
 20149 Milano, Italy
 
-elegnani97@gmail.com
+[elegnani97@gmail.com](mailto:elegnani97@gmail.com)
 
 <br>
 
