@@ -8,7 +8,7 @@ I co-founded a startup that focuses on the development, manufacturing and sales 
 
 I showcased our product in various trade fairs in Europe. I built and maintained professional relationships with R&D groups of industrial companies and universities in the plastics and 3D printing sectors.
 
-See our website [here](https://www.direct3d.it) for more infos. We are also active on [linkedin](https://www.linkedin.com/company/direct3d-pellet-extrusion/).
+See our website [here](https://www.direct3d.it) for more infos. We are also active on [LinkedIn](https://www.linkedin.com/company/direct3d-pellet-extrusion/).
 
 ## Publication
 
