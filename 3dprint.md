@@ -10,7 +10,11 @@ I showcased our product in various trade fairs in Europe. I built and maintained
 
 See our website [here](https://www.direct3d.it) for more infos. We are also active on [LinkedIn](https://www.linkedin.com/company/direct3d-pellet-extrusion/).
 
-<img src="https://user-images.githubusercontent.com/62106779/137629860-4dadbd5e-7cdf-43c2-b20d-e86c88fa5e0a.png"/>
+
+<figure>
+  <img src="https://user-images.githubusercontent.com/62106779/137629860-4dadbd5e-7cdf-43c2-b20d-e86c88fa5e0a.png"/>
+  <figcaption>Direct3D Pellet Extruder mounted on a 3D printer and some printed samples of different materials - from highly filled materials to very soft elastomers.</figcaption>
+</figure>
 
 <br>
 
