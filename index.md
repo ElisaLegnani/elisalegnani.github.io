@@ -26,3 +26,6 @@ I am a physicist at the University of Milan and I am currently doing research fo
 
 ### 3D print
 
+<br>
+
+If you want to know more about me or read my CV see this [page](/aboutme).
