@@ -1118,10 +1118,13 @@ pre {
 .post-img {
   margin-left: 1rem;
   margin-right: 1rem;
-  text-align: center;
 }
 
 figcaption {
   font-size: 0.8rem;
+  text-align: center;
+}
+
+figure {
   text-align: center;
 }
