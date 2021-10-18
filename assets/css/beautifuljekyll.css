@@ -1119,3 +1119,8 @@ pre {
   margin-left: 1rem;
   margin-right: 1rem;
 }
+
+figcaption {
+  font-size: 0.6rem;
+  text-align: center;
+}
