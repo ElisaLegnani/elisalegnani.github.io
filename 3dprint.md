@@ -13,7 +13,7 @@ See our website [here](https://www.direct3d.it) for more infos. We are also acti
 
 <figure>
   <img src="https://user-images.githubusercontent.com/62106779/137629860-4dadbd5e-7cdf-43c2-b20d-e86c88fa5e0a.png"/>
-  <figcaption>Direct3D Pellet Extruder mounted on a 3D printer and some printed samples of different materials - from highly filled materials to very soft elastomers.</figcaption>
+  <figcaption>Direct3D Pellet Extruder and some printed samples of different materials - from highly filled materials to very soft elastomers.</figcaption>
 </figure>
 
 <br>
