@@ -22,3 +22,9 @@ If you want to know more about me and my projects you can look at my [LinkedIn p
 
 
 ## Hobbies
+
+When not sitting in front of a computer nor studying, I do a lot of outdoor activities. The ones I like most are mountain trekking and cycling. I also enjoy taking photos of the stunning landscapes I encounter on my way.
+
+Sometimes I get tired of constantly moving around, and I love drawing and reading.
+
+As a programming enthusiast and (somehow good) artist, I also enjoy doing some simple web design. Here are a few examples of websites I built during my free time: [Feel@Home](https://www.feelathome.eu/) and [Direct3D](https://www.direct3d.it/).
