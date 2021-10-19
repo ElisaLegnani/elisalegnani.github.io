@@ -28,4 +28,4 @@ I am a physicist at the University of Milan and I am currently doing research fo
 
 <br>
 
-If you want to know more about me or read my CV see this [page](https://elisalegnani.github.io/aboutme).
+If you want to know more about me or read my **CV** see this [page](https://elisalegnani.github.io/aboutme).
