@@ -1123,6 +1123,7 @@ pre {
 figcaption {
   font-size: 0.8rem;
   text-align: center;
+  caption-side: bottom;
 }
 
 figure {
