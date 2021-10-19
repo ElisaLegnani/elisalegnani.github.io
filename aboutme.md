@@ -24,7 +24,7 @@ If you want to know more about me and my projects you can look at my [LinkedIn p
 ## Hobbies
 
 
-  <img class="post-img" width=300 align="right" src="https://user-images.githubusercontent.com/62106779/137777526-66c23ddc-7f4b-437e-856e-a0936f646924.jpg"/>
+  <img class="post-img" width=260 align="right" src="https://user-images.githubusercontent.com/62106779/137777526-66c23ddc-7f4b-437e-856e-a0936f646924.jpg"/>
 
 
 When not sitting in front of a computer nor studying, I do a lot of outdoor activities. The ones I like most are mountain trekking and cycling. I also enjoy taking photos of the stunning landscapes I encounter on my way.
