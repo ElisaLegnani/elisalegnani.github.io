@@ -6,7 +6,7 @@ title: About me
 
 ## My CV
 
-<p style="color:red">Coming soon!</p>
+Here you can read my [Curriculum Vitae](https://drive.google.com/file/d/1hqm60XJ0-QDLmXFYZ1klpW1z_U_48r6b/view?usp=sharing).
 
 ## Contact me
 
