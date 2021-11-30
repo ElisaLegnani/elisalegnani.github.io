@@ -16,7 +16,7 @@ Office 018
 
 <br>
 
-I am a physicist at the University of Milan and I am currently doing research for my Master thesis at the Ludwig Maximilians University in Munich.
+I am a physicist at the University of Milan and I am currently doing research in cosmology for my Master thesis at the Ludwig Maximilians University in Munich.
 
 ## Research interests
 
