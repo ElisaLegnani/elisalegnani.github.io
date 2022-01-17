@@ -11,6 +11,8 @@ If you want to know more about me and my projects you can have a look at my [Lin
 
 <img class="post-img" width=300 align="right" src="https://user-images.githubusercontent.com/62106779/137777526-66c23ddc-7f4b-437e-856e-a0936f646924.jpg"/>
 
+<br>
+
 ## Contact me
 
 You can find me here: <br>
