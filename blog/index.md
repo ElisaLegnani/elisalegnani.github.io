@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Blog
+title: More
 ---
 
-Blog test
+Here is some random stuff I like
