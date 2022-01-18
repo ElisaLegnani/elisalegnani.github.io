@@ -1,6 +1,6 @@
 ---
 layout: home
-Blog
+title: Blog
 ---
 
 Blog test
