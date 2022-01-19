@@ -9,7 +9,7 @@ Here you can read my [Curriculum Vitae](https://drive.google.com/file/d/1hqm60XJ
 
 If you want to know more about me and my projects you can have a look at my [LinkedIn profile](https://www.linkedin.com/in/elisa-legnani-32590819b/) and at my repositories on [GitHub](https://github.com/ElisaLegnani).
 
-<img class="post-img" width=300 align="right" src="assets/img/stambecchi.jpg"/>
+<img class="post-img" width=300 align="right" src="/assets/img/stambecchi.jpg"/>
 
 <br>
 
