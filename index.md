@@ -3,7 +3,7 @@ layout: page
 title: Elisa Legnani
 ---
 
-<img class="circular-img" align="left" width=230 src="https://user-images.githubusercontent.com/62106779/137625586-57dcda5d-302e-4226-bc19-102b6a67537b.jpg"/>
+<img class="circular-img" align="left" width=230 src="assets/img/me.jpg"/>
 
 <br>
 
