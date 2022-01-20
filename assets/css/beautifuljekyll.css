@@ -1121,14 +1121,3 @@ pre {
   margin-top: 1rem;
   margin-bottom: 1rem;
 }
-
-figcaption {
-  font-size: 0.8rem;
-  text-align: center;
-  caption-side: bottom;
-  position: absolute;
-}
-
-figure {
-  text-align: center;
-}
