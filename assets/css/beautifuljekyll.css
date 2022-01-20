@@ -495,8 +495,8 @@ footer .footer-custom-content {
 .post-preview .post-image {
   margin-left: auto;
   margin-right: auto;
-  /*height: 12rem;
-  width: 12rem;*/
+  height: 500;
+  /*width: 12rem;*/
 }
 /*.post-preview .post-image {
   filter: grayscale(40%);
