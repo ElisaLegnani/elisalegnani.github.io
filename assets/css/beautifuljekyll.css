@@ -492,11 +492,15 @@ footer .footer-custom-content {
 .post-preview .post-entry {
   width: 100%;
 }
+
+/* image for posts */
 .post-preview .post-image {
   margin-left: auto;
   margin-right: auto;
   height: 500;
   /*width: 12rem;*/
+  margin-top: 1rem;
+  margin-bottom: 1rem;
 }
 /*.post-preview .post-image {
   filter: grayscale(40%);
@@ -1101,6 +1105,7 @@ pre {
   }
 }
 
+/* homepage image */
 .circular-img {
   border-radius: 50%;
   margin-top: 0rem;
@@ -1109,12 +1114,7 @@ pre {
   margin-right: 3rem;
 }
 
-.thumbnail-img {
-  vertical-align: text-bottom;
-  margin-left: 0.2rem;
-  margin-right: 0.5rem;
-}
-
+/* image for pages */
 .post-img {
   margin-left: 1rem;
   margin-right: 1rem;
