@@ -10,9 +10,9 @@ I showcased our product in various trade fairs in Europe. I built and maintained
 
 See our website [here](https://www.direct3d.it) for more infos. We are also active on [LinkedIn](https://www.linkedin.com/company/direct3d-pellet-extrusion/).
 
-
-  <img class="post-img" width=650 align="center" img src="/assets/img/direct3d.png"/>
-
+<p align="center">
+  <img class="post-img" width=650 img src="/assets/img/direct3d.png"/>
+</p>
 
 <br>
 
