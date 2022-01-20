@@ -492,13 +492,13 @@ footer .footer-custom-content {
 .post-preview .post-entry {
   width: 100%;
 }
-/*.post-preview .post-image {
-  float: right;
-  margin-left: 0.625rem;
-  height: 12rem;
-  width: 12rem;
-}
 .post-preview .post-image {
+  margin-left: auto;
+  margin-right: auto;
+  /*height: 12rem;
+  width: 12rem;*/
+}
+/*.post-preview .post-image {
   filter: grayscale(40%);
 }
 .post-preview .post-image:hover {
