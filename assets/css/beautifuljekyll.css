@@ -495,8 +495,7 @@ footer .footer-custom-content {
 
 /* image for posts */
 .post-preview .post-image {
-  margin-left: auto;
-  margin-right: auto;
+  text-align: center;
   height: 30rem;
   /*width: 12rem;*/
   margin-top: 1rem;
