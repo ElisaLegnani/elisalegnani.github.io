@@ -1119,3 +1119,10 @@ pre {
   margin-top: 1rem;
   margin-bottom: 1rem;
 }
+
+/* icons */
+.thumbnail-img {
+  vertical-align: text-bottom;
+  margin-left: 0.2rem;
+  margin-right: 0.5rem;
+}
