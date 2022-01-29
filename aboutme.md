@@ -24,7 +24,10 @@ Feel free to contact me via e-mail: [elegnani97@gmail.com](mailto:elegnani97@gma
 I am an outdoor activities enthusiast. The ones I like most are mountain trekking and cycling. I also enjoy taking photos of the stunning landscapes I encounter on my way.
 
 Sometimes I get tired of constantly moving around, and I love drawing and reading.
+<!---* disegno *--->
 
 As a programming enthusiast and (somehow good) artist, I also enjoy doing some simple web design. Here are a few examples of websites I built during my free time: [Feel@Home](https://www.feelathome.eu/) and [Direct3D](https://www.direct3d.it/).
+
+<!---* See my [Blog](https://elisalegnani.github.io/blog) page for more! *--->
 
 <!---* Ooops, almost forgot to mention my unconditional love for cats an animals. Here is Pepe :) *--->
