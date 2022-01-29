@@ -18,6 +18,7 @@ Office 018
 
 I am a physicist at the University of Milan and I am currently doing research in cosmology for my Master thesis at the Ludwig Maximilians University in Munich.
 
+I am originally from Milano, a city in the north of Italy. I lived in there through all my education, and moved to Munich a few months ago to join Daniel Gruen's *Astrophysics Cosmology and Artificial Intelligence* group. I look forwar to starting a PhD in astrophysics next semester.
 <br>
 
 ## Research interests
@@ -26,8 +27,14 @@ I am a physicist at the University of Milan and I am currently doing research in
 
 ### Cosmology
 
+Coming soon - also on the [Cosmology](https://elisalegnani.github.io/cosmology) page.
+
 ### 3D print
+
+See the page [3D print](https://elisalegnani.github.io//3dprint) for more.
 
 <br>
 
-If you want to know more about me or read my **CV** see this [page](https://elisalegnani.github.io/aboutme).
+## My CV and more
+
+Here you can read my [Curriculum Vitae](https://drive.google.com/file/d/1hqm60XJ0-QDLmXFYZ1klpW1z_U_48r6b/view?usp=sharing).
