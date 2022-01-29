@@ -18,7 +18,7 @@ Office 018
 
 I am a physicist at the University of Milan and I am currently doing research in cosmology for my Master thesis at the Ludwig Maximilians University in Munich.
 
-I am originally from Milano, a city in the north of Italy. I lived in there through all my education, and moved to Munich a few months ago to join [Daniel Gruen](https://www.physik.lmu.de/en/about-us/people/gruen-2.html)'s *Astrophysics Cosmology and Artificial Intelligence* group. I look forwar to starting a PhD in astrophysics next semester.
+I am originally from Milan, a city in the north of Italy. I lived in there through all my education, and moved to Munich a few months ago to join [Daniel Gruen](https://www.physik.lmu.de/en/about-us/people/gruen-2.html)'s *Astrophysics Cosmology and Artificial Intelligence* group. I look forward to starting a PhD in astrophysics next semester.
 
 <br>
 
