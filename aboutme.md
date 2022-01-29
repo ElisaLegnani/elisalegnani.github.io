@@ -15,6 +15,8 @@ Office 018
 
 Feel free to contact me via e-mail: [elegnani97@gmail.com](mailto:elegnani97@gmail.com)
 
+<br>
+
 ## Hobbies
 
 I enjoy doing a lot of outdoor activities. The ones I like most are mountain trekking and cycling. I also enjoy taking photos of the stunning landscapes I encounter on my way.
