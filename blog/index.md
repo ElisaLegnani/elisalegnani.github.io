@@ -1,5 +1,5 @@
 ---
 layout: home
-title: More
+title: Blog
 subtitle: Some random stuff I like
 ---
