@@ -23,9 +23,13 @@ Feel free to contact me via e-mail: [elegnani97@gmail.com](mailto:elegnani97@gma
 
 I am an outdoor activities enthusiast. The ones I like most are mountain trekking and cycling. I also enjoy taking photos of the stunning landscapes I encounter on my way.
 
+<img class="post-img" width=400 align="left" src="/assets/img/stambecco.png"/>
+
 Sometimes I get tired of constantly moving around, and I love drawing and reading.
 
-<img class="post-img" width=300 src="/assets/img/stambecco.png"/>
+<br>
+
+<br>
 
 As a programming enthusiast and (somehow good) artist, I also enjoy doing some simple web design. Here are a few examples of websites I built during my free time: [Feel@Home](https://www.feelathome.eu/) and [Direct3D](https://www.direct3d.it/).
 
