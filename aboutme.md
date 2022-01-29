@@ -5,6 +5,8 @@ title: About me
 
 <img class="post-img" width=300 align="right" src="/assets/img/stambecchi.jpg"/>
 
+<br>
+
 ## Contact me
 
 You can find me here: <br>
