@@ -3,15 +3,7 @@ layout: page
 title: About me
 ---
 
-## My CV
-
-Here you can read my [Curriculum Vitae](https://drive.google.com/file/d/1hqm60XJ0-QDLmXFYZ1klpW1z_U_48r6b/view?usp=sharing).
-
-If you want to know more about me and my projects you can have a look at my [LinkedIn profile](https://www.linkedin.com/in/elisa-legnani-32590819b/) and at my repositories on [GitHub](https://github.com/ElisaLegnani).
-
 <img class="post-img" width=300 align="right" src="/assets/img/stambecchi.jpg"/>
-
-<br>
 
 ## Contact me
 
@@ -23,12 +15,10 @@ Office 018
 
 Feel free to contact me via e-mail: [elegnani97@gmail.com](mailto:elegnani97@gmail.com)
 
-<!---* ## Hobbies
+## Hobbies
 
-When not sitting in front of a computer nor studying, I do a lot of outdoor activities. The ones I like most are mountain trekking and cycling. I also enjoy taking photos of the stunning landscapes I encounter on my way.
+I enjoy doing a lot of outdoor activities. The ones I like most are mountain trekking and cycling. I also enjoy taking photos of the stunning landscapes I encounter on my way.
 
 Sometimes I get tired of constantly moving around, and I love drawing and reading.
 
 As a programming enthusiast and (somehow good) artist, I also enjoy doing some simple web design. Here are a few examples of websites I built during my free time: [Feel@Home](https://www.feelathome.eu/) and [Direct3D](https://www.direct3d.it/).
-
- *--->
