@@ -25,7 +25,7 @@ I am an outdoor activities enthusiast. The ones I like most are mountain trekkin
 
 Sometimes I get tired of constantly moving around, and I love drawing and reading.
 
-<img class="post-img" width=400 src="/assets/img/stambecco.png"/>
+<img width=400 src="/assets/img/stambecco.png"/>
 
 As a programming enthusiast and (somehow good) artist, I also enjoy doing some simple web design. Here are a few examples of websites I built during my free time: [Feel@Home](https://www.feelathome.eu/) and [Direct3D](https://www.direct3d.it/).
 
