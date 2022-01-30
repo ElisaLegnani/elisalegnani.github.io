@@ -24,7 +24,7 @@ I am originally from Milan, a city in the north of Italy. I lived in there throu
 
 ## Research interests
 
-Here is what I loved most during my studies and research experiences.
+Here is what I am passionate about in my studies and research experiences.
 
 ### Cosmology
 
