@@ -32,7 +32,7 @@ My overarching goal is to contribute to building an improved model of the Univer
 
 I am currently working on improving intrinsic alignment modelling for the [Dark Enery Survey](https://www.darkenergysurvey.org/) Year 3 cosmic shear analyses using artificial intelligence algorithms and deep many-band imaging. My goal is to uncover and use the scaling of lensing source galaxies’ intrinsic alignment with their physical properties.
 
-See the [Cosmology](https://elisalegnani.github.io/cosmology) page if you want to know more about my current project and learn about what I like in astrophysics and cosmology.
+See the [Cosmology](https://elisalegnani.github.io/cosmology) page for detaild on my current project or if you want to learn about what I like in astrophysics and cosmology.
 
 ### 3D print
 
