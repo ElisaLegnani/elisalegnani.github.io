@@ -28,7 +28,9 @@ I am originally from Milan, a city in the north of Italy. I lived in there throu
 
 ### Cosmology
 
-Coming soon - also on the [Cosmology](https://elisalegnani.github.io/cosmology) page.
+My overarching goal is to contribute to building an improved model of the Universe by applying innovative statistical and artificial intelligence techniques to cosmological surveys datasets.
+
+See also the [Cosmology](https://elisalegnani.github.io/cosmology) page.
 
 ### 3D print
 
