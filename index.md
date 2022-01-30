@@ -18,21 +18,27 @@ Office 018
 
 I am a physicist at the University of Milan and I am currently doing research in cosmology for my Master thesis at the Ludwig Maximilians University in Munich.
 
-I am originally from Milan, a city in the north of Italy. I lived in there through all my education, and moved to Munich to join [Daniel Gruen](https://www.physik.lmu.de/en/about-us/people/gruen-2.html)'s *Astrophysics Cosmology and Artificial Intelligence* group for a year long research stay funded by my University. I look forward to starting a PhD in astrophysics next semester.
+I am originally from Milan, a city in the north of Italy. I lived in there through all my education, and moved to Munich to join [Daniel Gruen](https://www.physik.lmu.de/en/about-us/people/gruen-2.html)'s group on *Astrophysics Cosmology and Artificial Intelligence* for a year long research stay funded by my University. I look forward to starting a PhD in astrophysics next semester.
 
 <br>
 
 ## Research interests
 
-<p style="color:red">Coming soon!</p>
+Here is what I loved most during my studies and research experiences.
 
 ### Cosmology
 
 My overarching goal is to contribute to building an improved model of the Universe by applying innovative statistical and artificial intelligence techniques to cosmological surveys datasets.
 
-See also the [Cosmology](https://elisalegnani.github.io/cosmology) page.
+I am currently working on improving intrinsic alignment modelling for the [Dark Enery Survey](https://www.darkenergysurvey.org/) Year 3 cosmic shear analyses using artificial intelligence algorithms and deep many-band imaging. My goal is to uncover and use the scaling of lensing source galaxies’ intrinsic alignment with their physical properties.
+
+See the [Cosmology](https://elisalegnani.github.io/cosmology) page if you want to know more about my current project and learn about what I like in astrophysics and cosmology.
 
 ### 3D print
+
+I co-founded the startup Direct3D, which focuses on the development, manufacturing and sales of a pellet extruder for 3D printing.
+
+Thanks to my know-how in the field, I also published a paper about ...
 
 See the page [3D print](https://elisalegnani.github.io//3dprint) for more.
 
