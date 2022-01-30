@@ -36,9 +36,9 @@ See the [Cosmology](https://elisalegnani.github.io/cosmology) page if you want t
 
 ### 3D print
 
-I co-founded the startup Direct3D, which focuses on the development, manufacturing and sales of a pellet extruder for 3D printing.
+I co-founded the startup [Direct3D](https://www.direct3d.it/), which focuses on the development, manufacturing and sales of a pellet extruder for 3D printing.
 
-Thanks to my know-how in the field, I also published a paper about ...
+Thanks to my know-how in the field and my studies in physics, I published a paper about a method I developed for manufacturing realistic 3D cerebrovascular phantoms for applications in radiosurgery.
 
 See the page [3D print](https://elisalegnani.github.io//3dprint) for more.
 
