@@ -28,9 +28,9 @@ Here is what I am passionate about in my studies and research experiences.
 
 ### Cosmology
 
-My overarching goal is to contribute to building an improved model of the Universe by applying innovative statistical and artificial intelligence techniques to cosmological surveys datasets.
+My overarching goal is to contribute to building an improved model of the Universe by applying innovative **statistical and artificial intelligence techniques** to cosmological surveys datasets.
 
-I am currently working on improving intrinsic alignment modelling for the [Dark Enery Survey](https://www.darkenergysurvey.org/) Year 3 cosmic shear analyses using artificial intelligence algorithms and deep many-band imaging. My goal is to uncover and use the scaling of lensing source galaxies’ intrinsic alignment with their physical properties.
+I am currently working on improving intrinsic alignment modelling for the [Dark Enery Survey](https://www.darkenergysurvey.org/) Year 3 **cosmic shear** analyses using artificial intelligence algorithms and deep many-band imaging. My goal is to uncover and use the scaling of lensing source galaxies’ intrinsic alignment with their physical properties.
 
 See the [Cosmology](https://elisalegnani.github.io/cosmology) page for details on my current project or if you want to learn about what I like in astrophysics and cosmology.
 
