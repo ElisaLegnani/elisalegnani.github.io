@@ -4,11 +4,13 @@ title: 3D Print
 ---
 ## Direct3D
 
-I co-founded a startup that focuses on the development, manufacturing and sales of a **pellet extruder for 3D printing**.
+In 2018 I co-founded a startup that focuses on the development, manufacturing and sales of a **pellet extruder for 3D printing**.
 
-I showcased our product in various trade fairs in Europe. I built and maintained professional relationships with R&D groups of industrial companies and universities in the plastics and 3D printing sectors.
+Compared to the traditional filament printing method, Direct3D pellet extruder enables our customers to increase productivity, select among a wider range of materials and reduce printing costs. See our website [here](https://www.direct3d.it) for more info. We are also active on [LinkedIn](https://www.linkedin.com/company/direct3d-pellet-extrusion/).
 
-See our website [here](https://www.direct3d.it) for more info. We are also active on [LinkedIn](https://www.linkedin.com/company/direct3d-pellet-extrusion/).
+Our main customers are R&D groups of industrial companies and universities in the plastics and 3D printing sectors. I built and maintained professional relationships with them, both for sales and for assistance. I also showcased our product in various trade fairs in Europe.
+
+Direct3D has a record of growing sales and profit. As a committed scientific researcher I operate in a consultancy role during my studies.
 
 <p align="center">
   <img width=680 img src="/assets/img/direct3d.png"/>
