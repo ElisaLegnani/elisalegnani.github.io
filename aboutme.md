@@ -21,7 +21,7 @@ Feel free to contact me via e-mail: [elegnani97@gmail.com](mailto:elegnani97@gma
 
 ## Hobbies
 
-I am an outdoor activities enthusiast. The ones I like most are mountain **trekking** and **cycling**. I also enjoy taking photos of the stunning landscapes I encounter on my way.
+I am an outdoor activities enthusiast. The ones I like most are **mountain trekking** and **cycling**. I also enjoy taking photos of the stunning landscapes I encounter on my way.
 
 Sometimes I get tired of constantly moving around, and I love **drawing** and **reading**.
 
