@@ -7,18 +7,18 @@ title: Elisa Legnani
 
 <br>
 
-<img class="thumbnail-img" align="left" height=24 src="/assets/img/img_location.png"/> **University Observatory Munich (USM)** <br>
-Scheinerstraβe 1 <br>
-81679 Munich, Germany <br>
-Office 018
+<img class="thumbnail-img" align="left" height=24 src="/assets/img/img_location.png"/> **Institut de Física d'Altes Energies (IFAE)** <br>
+Campus UAB, Facultat Ciencies Nord <br>
+08193 Bellaterra (Barcelona), Spain <br>
+Office 132
 
-<img class="thumbnail-img" align="left" height=18 src="/assets/img/img_mail.png"/> [elegnani97@gmail.com](mailto:elegnani97@gmail.com)
+<img class="thumbnail-img" align="left" height=18 src="/assets/img/img_mail.png"/> [elegnani@ifae.es](mailto:elegnani@ifae.es)
 
 <br>
 
-I am a physicist at the University of Milan and I am currently doing research in cosmology for my Master thesis at the Ludwig Maximilians University in Munich.
+I am a PhD student in Physics at IFAE in Barcelona, doing research on weak lensing analyses in the *Observational Cosmology* group.
 
-I am originally from Milan, a city in the north of Italy. I lived in there through all my education, and moved to Munich to join [Daniel Gruen](https://www.physik.lmu.de/en/about-us/people/gruen-2.html)'s group on *Astrophysics Cosmology and Artificial Intelligence* for a year long research stay funded by my University. I look forward to starting a PhD in astrophysics next semester.
+I am originally from Milan, a city in the north of Italy. I lived in there through all my education, and studied for both my Bachelor and my Master in Physics at the University of Milan. During the last year of my Master I moved to Munich to join [Daniel Gruen](https://www.physik.lmu.de/en/about-us/people/gruen-2.html)'s group on *Astrophysics Cosmology and Artificial Intelligence* at the Ludwig Maximilians University for a year long research stay funded by my University.
 
 <br>
 
