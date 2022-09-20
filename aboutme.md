@@ -10,12 +10,12 @@ title: About me
 ## Contact me
 
 You can find me here: <br>
-**University Observatory Munich (USM)** <br>
-Scheinerstraβe 1 <br>
-81679 Munich, Germany <br>
-Office 018
+**Institut de Física d'Altes Energies (IFAE)** <br>
+Campus UAB, Facultat Ciencies Nord <br>
+08193 Bellaterra (Barcelona), Spain <br>
+Office 132
 
-Feel free to contact me via e-mail: [elegnani97@gmail.com](mailto:elegnani97@gmail.com)
+Feel free to contact me via e-mail: [elegnani@ifae.es](mailto:elegnani@ifae.es)
 
 <br>
 
