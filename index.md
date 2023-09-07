@@ -3,7 +3,7 @@ layout: page
 title: Elisa Legnani
 ---
 
-<img class="circular-img" align="left" width=230 src="assets/img/me.jpg"/>
+<img class="circular-img" align="left" width=230 src="assets/img/me_23.jpg"/>
 
 <br>
 
