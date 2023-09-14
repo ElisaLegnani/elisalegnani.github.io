@@ -50,4 +50,8 @@ Here you can read my [Curriculum Vitae](https://drive.google.com/file/d/1hqm60XJ
 
 If you want to know more about me and my projects you can have a look at [this page](https://elisalegnani.github.io/aboutme), at my [LinkedIn profile](https://www.linkedin.com/in/elisa-legnani-32590819b/) and at my repositories on [GitHub](https://github.com/ElisaLegnani).
 
+<br>
+
+<sub> Profile photo by [Bernardita Ried](https://sites.google.com/view/bernarditaried) <sub/>
+
 <!---* I'll also try to keep the [Blog](https://elisalegnani.github.io/blog) page updated with some more random stuff I do. *--->
