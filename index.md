@@ -5,7 +5,7 @@ title: Elisa Legnani
 
 <img class="circular-img" align="left" width=300 src="assets/img/me_23_2.jpg"/>
 
-I am a PhD student in Physics in the *Observational Cosmology* group at [IFAE](https://www.ifae.es/) in Barcelona. My aim is to contribute to our understanding of the large-scale structure of the Universe using innovative statistical and software solutions applied to complex cosmological survey datasets.
+I am a PhD student in Physics in the *Observational Cosmology* group at [IFAE](https://www.ifae.es/) in Barcelona. My aim is to deepen our understanding of the large-scale structure of the Universe by applying innovative statistical and software solutions to complex cosmological survey datasets.
 
 My background includes professional and research experience in 3D printing. I am passionate about computer science and software engineering, and I thoroughly enjoy problem-solving in general.
 
@@ -17,7 +17,7 @@ My background includes professional and research experience in 3D printing. I am
 
 ### Cosmology
 
-My overarching goal is to contribute to building an improved model of the Universe by applying innovative statistical and artificial intelligence techniques to galaxy surveys.
+My overarching goal is to contribute to building an improved model of the Universe by using innovative statistical and artificial intelligence techniques to analyse galaxy surveys.
 
 I am involved in the weak lensing analyses with the final dataset of the Dark Energy Survey ([DES](https://www.darkenergysurvey.org/)), the leading lensing experiment to date, and on the preparation of the upcoming Legacy Survey of Space and Time ([LSST](https://lsstdesc.org/)).
 
