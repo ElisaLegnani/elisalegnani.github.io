@@ -3,9 +3,8 @@ layout: page
 title: Elisa Legnani
 ---
 
-<img class="circular-img" align="left" width=230 src="assets/img/me_23_2.jpg"/>
+<img class="circular-img" align="left" width=240 src="assets/img/me_23_2.jpg"/>
 
-<br>
 <br>
 
 I am a PhD student in Physics at IFAE in Barcelona, doing research in the *Observational Cosmology* group. My aim is to contribute to our understanding of the large-scale structure of the Universe using innovative statistical and software solutions applied to complex cosmological survey datasets.
@@ -16,7 +15,6 @@ My background includes professional and research experience in 3D printing. I am
 
 <!---* I am originally from Milan, a city in the north of Italy. I lived in there through all my education, and studied for both my Bachelor and my Master in Physics at the University of Milan. During the last year of my Master I moved to Munich to join [Daniel Gruen](https://www.physik.lmu.de/en/about-us/people/gruen-2.html)'s group on *Astrophysics Cosmology and Artificial Intelligence* at the Ludwig Maximilians University for a year long research stay funded by my University. *--->
 
-<br>
 <br>
 
 ## Research interests
