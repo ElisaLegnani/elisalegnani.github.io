@@ -18,7 +18,7 @@ Direct3D has a record of growing sales and profit. As a committed scientific res
 
 <br>
 
-## Publication
+## Research
 
 For my Bachelor's degree thesis project I developed and tested an efficient methodology for manufacturing realistic 3D cerebrovascular phantoms resembling brain arteriovenous malformations for applications in stereotactic radiosurgery.
 
@@ -27,6 +27,6 @@ For my Bachelor's degree thesis project I developed and tested an efficient meth
 
 Specifically, I elaborated the brain computed tomography data acquired from patients and developed two main manufacturing techniques, involving 3D print and the use of tissue-equivalent materials for radiology, for the fabrication of the phantoms. I tested the radiological response of these phantoms and compared the data with the one of the clinical cases. Results were very good and suggested that these systems have the potential to be used as enabling tools for radiosurgery pre-planning, quality assurance and medical research.
 
-I published this work as first author: <br>
-E. Legnani, et al., **Additive fabrication of a vascular 3D phantom for stereotactic radiosurgery of arteriovenous malformations**, *3D Printing and Additive Manufacturing*, Aug 2021, 217-226 <br>
-You can read it [here](https://www.liebertpub.com/doi/10.1089/3dp.2020.0305).
+
+You can read the pubblication [here](https://www.liebertpub.com/doi/10.1089/3dp.2020.0305): <br>
+E. Legnani, et al., **Additive fabrication of a vascular 3D phantom for stereotactic radiosurgery of arteriovenous malformations**, *3D Printing and Additive Manufacturing*, Aug 2021, 217-226
