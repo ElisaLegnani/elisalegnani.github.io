@@ -3,9 +3,9 @@ layout: page
 title: Elisa Legnani
 ---
 
-<img class="circular-img" align="left" width=250 src="assets/img/me_23_2.jpg"/>
+<img class="circular-img" align="left" width=260 src="assets/img/me_23_2.jpg"/>
 
-I am a PhD student in Physics at IFAE in Barcelona, doing research in the *Observational Cosmology* group. My aim is to contribute to our understanding of the large-scale structure of the Universe using innovative statistical and software solutions applied to complex cosmological survey datasets.
+I am a PhD student in Physics in the *Observational Cosmology* group at IFAE in Barcelona. My aim is to contribute to our understanding of the large-scale structure of the Universe using innovative statistical and software solutions applied to complex cosmological survey datasets.
 
 My background includes professional and research experience in 3D printing. I am passionate about computer science and software engineering, and I thoroughly enjoy problem-solving in general.
 
@@ -29,11 +29,11 @@ See the [Cosmology](https://elisalegnani.github.io/cosmology) page for details o
 
 ### 3D print
 
-I co-founded the startup [Direct3D](https://www.direct3d.it/), which focuses on the development, manufacturing and sales of a pellet extruder for 3D printing.
+I co-founded [Direct3D](https://www.direct3d.it/), a startup dedicated to developing, manufacturing, and selling a pellet extruder for 3D printing.
 
-Thanks to my know-how in the field and my studies in physics, I published a paper about a method I developed for manufacturing realistic 3D cerebrovascular phantoms for applications in radiosurgery.
+Combining my expertise in this field with my background in physics, I authored a paper detailing a novel method I developed for manufacturing realistic 3D cerebrovascular phantoms to be used in radiosurgery applications.
 
-See the page [3D print](https://elisalegnani.github.io//3dprint) for more.
+For more information, visit the [3D print](https://elisalegnani.github.io//3dprint) page.
 
 <br>
 
