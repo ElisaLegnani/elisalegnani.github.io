@@ -11,8 +11,6 @@ My background includes professional and research experience in 3D printing. I am
 
 <!---* particularly in advancing data analysis techniques across various fields of study.  *--->
 
-<!---* I am originally from Milan, a city in the north of Italy. I lived in there through all my education, and studied for both my Bachelor and my Master in Physics at the University of Milan. During the last year of my Master I moved to Munich to join [Daniel Gruen](https://www.physik.lmu.de/en/about-us/people/gruen-2.html)'s group on *Astrophysics Cosmology and Artificial Intelligence* at the Ludwig Maximilians University for a year long research stay funded by my University. *--->
-
 <br>
 
 ## Research interests
