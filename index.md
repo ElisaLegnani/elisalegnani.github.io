@@ -6,20 +6,17 @@ title: Elisa Legnani
 <img class="circular-img" align="left" width=230 src="assets/img/me_23_2.jpg"/>
 
 <br>
-
-<img class="thumbnail-img" align="left" height=24 src="/assets/img/img_location.png"/> **Institut de Física d'Altes Energies (IFAE)** <br>
-Campus UAB, Facultat Ciencies Nord <br>
-08193 Bellaterra (Barcelona), Spain <br>
-Office 132
-
-<img class="thumbnail-img" align="left" height=18 src="/assets/img/img_mail.png"/> [elegnani@ifae.es](mailto:elegnani@ifae.es)
-
 <br>
 
-I am a PhD student in Physics at IFAE in Barcelona, doing research on weak lensing analyses in the *Observational Cosmology* group.
+I am a PhD student in Physics at IFAE in Barcelona, doing research in the *Observational Cosmology* group. My aim is to contribute to our understanding of the large-scale structure of the Universe using innovative statistical and software solutions applied to complex cosmological survey datasets.
 
-I am originally from Milan, a city in the north of Italy. I lived in there through all my education, and studied for both my Bachelor and my Master in Physics at the University of Milan. During the last year of my Master I moved to Munich to join [Daniel Gruen](https://www.physik.lmu.de/en/about-us/people/gruen-2.html)'s group on *Astrophysics Cosmology and Artificial Intelligence* at the Ludwig Maximilians University for a year long research stay funded by my University.
+My background includes professional and research experience in 3D printing. I am passionate about computer science and software engineering, and I thoroughly enjoy problem-solving in general.
 
+<!---* particularly in advancing data analysis techniques across various fields of study.  *--->
+
+<!---* I am originally from Milan, a city in the north of Italy. I lived in there through all my education, and studied for both my Bachelor and my Master in Physics at the University of Milan. During the last year of my Master I moved to Munich to join [Daniel Gruen](https://www.physik.lmu.de/en/about-us/people/gruen-2.html)'s group on *Astrophysics Cosmology and Artificial Intelligence* at the Ludwig Maximilians University for a year long research stay funded by my University. *--->
+
+<br>
 <br>
 
 ## Research interests
@@ -53,5 +50,15 @@ If you want to know more about me and my projects you can have a look at [this p
 <br>
 
 <sub> Profile photo by [Bernardita Ried](https://sites.google.com/view/bernarditaried) <sub/>
+
+## Contact
+
+<img class="thumbnail-img" align="left" height=24 src="/assets/img/img_location.png"/> **Institut de Física d'Altes Energies (IFAE)** <br>
+Campus UAB, Facultat Ciencies Nord <br>
+08193 Bellaterra (Barcelona), Spain
+
+<img class="thumbnail-img" align="left" height=18 src="/assets/img/img_mail.png"/> [elegnani@ifae.es](mailto:elegnani@ifae.es)
+
+<br>
 
 <!---* I'll also try to keep the [Blog](https://elisalegnani.github.io/blog) page updated with some more random stuff I do. *--->
