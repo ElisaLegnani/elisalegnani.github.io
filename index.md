@@ -3,7 +3,7 @@ layout: page
 title: Elisa Legnani
 ---
 
-<img class="circular-img" align="left" width=300 src="assets/img/me_23_2.jpg"/>
+<img class="circular-img" align="left" width=260 src="assets/img/me_23_2.jpg"/>
 
 I am a PhD student in Physics in the *Observational Cosmology* group at [IFAE](https://www.ifae.es/) in Barcelona. My aim is to deepen our understanding of the large-scale structure of the Universe by applying innovative statistical and software solutions to complex cosmological survey datasets.
 
