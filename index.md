@@ -47,8 +47,6 @@ If you want to know more about me and my projects you can have a look at [this p
 
 <br>
 
-<sub> Profile photo by [Bernardita Ried](https://sites.google.com/view/bernarditaried) <sub/>
-
 ## Contact
 
 <img class="thumbnail-img" align="left" height=24 src="/assets/img/img_location.png"/> **Institut de Física d'Altes Energies (IFAE)** <br>
@@ -58,5 +56,8 @@ Campus UAB, Facultat Ciencies Nord <br>
 <img class="thumbnail-img" align="left" height=18 src="/assets/img/img_mail.png"/> [elegnani@ifae.es](mailto:elegnani@ifae.es)
 
 <br>
+
+<sub> Profile photo by [Bernardita Ried](https://sites.google.com/view/bernarditaried) <sub/>
+
 
 <!---* I'll also try to keep the [Blog](https://elisalegnani.github.io/blog) page updated with some more random stuff I do. *--->
