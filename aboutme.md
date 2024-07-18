@@ -9,6 +9,7 @@ title: About me
 
 I am originally from Milan, a city in the north of Italy. I lived there throughout my education, and studied for both my Bachelor and my Master in Physics at the University of Milan. During the last year of my Master I moved to Munich to join [Daniel Gruen](https://www.physik.lmu.de/en/about-us/people/gruen-2.html)'s group on *Astrophysics Cosmology and Artificial Intelligence* at the Ludwig Maximilians University for a year long research stay funded by my University. I am now a PhD student in the *Observational Cosmology* group at [IFAE](https://www.ifae.es/) in Barcelona.
 
+<br>
 
 ## Hobbies
 
