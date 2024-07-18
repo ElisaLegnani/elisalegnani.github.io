@@ -19,7 +19,7 @@ My background includes professional and research experience in 3D printing. I am
 
 My overarching goal is to contribute to building an improved model of the Universe by applying innovative statistical and artificial intelligence techniques to galaxy surveys.
 
-Currently, I am involved in the weak lensing analyses with the final dataset of the Dark Energy Survey ([DES](https://www.darkenergysurvey.org/)), the leading lensing experiment to date, and on the preparation of the upcoming Legacy Survey of Space and Time ([LSST](https://lsstdesc.org/)).
+I am involved in the weak lensing analyses with the final dataset of the Dark Energy Survey ([DES](https://www.darkenergysurvey.org/)), the leading lensing experiment to date, and on the preparation of the upcoming Legacy Survey of Space and Time ([LSST](https://lsstdesc.org/)).
 
 For more details on my current projects and my interests in astrophysics and cosmology, please visit the [Cosmology](https://elisalegnani.github.io/cosmology) page.
 
