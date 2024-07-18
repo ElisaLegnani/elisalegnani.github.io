@@ -7,18 +7,6 @@ title: About me
 
 <br>
 
-## Contact me
-
-You can find me here: <br>
-**Institut de Física d'Altes Energies (IFAE)** <br>
-Campus UAB, Facultat Ciencies Nord <br>
-08193 Bellaterra (Barcelona), Spain <br>
-Office 132
-
-Feel free to contact me via e-mail: [elegnani@ifae.es](mailto:elegnani@ifae.es)
-
-<br>
-
 ## Hobbies
 
 I am an outdoor activities enthusiast. The ones I like most are **mountain trekking** and **cycling**. I also enjoy taking photos of the stunning landscapes I encounter on my way.
