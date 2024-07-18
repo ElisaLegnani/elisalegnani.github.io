@@ -5,7 +5,7 @@ title: Elisa Legnani
 
 <img class="circular-img" align="left" width=260 src="assets/img/me_23_2.jpg"/>
 
-I am a PhD student in Physics in the *Observational Cosmology* group at IFAE in Barcelona. My aim is to contribute to our understanding of the large-scale structure of the Universe using innovative statistical and software solutions applied to complex cosmological survey datasets.
+I am a PhD student in Physics in the *Observational Cosmology* group at [IFAE](https://www.ifae.es/) in Barcelona. My aim is to contribute to our understanding of the large-scale structure of the Universe using innovative statistical and software solutions applied to complex cosmological survey datasets.
 
 My background includes professional and research experience in 3D printing. I am passionate about computer science and software engineering, and I thoroughly enjoy problem-solving in general.
 
