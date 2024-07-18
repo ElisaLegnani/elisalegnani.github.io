@@ -15,15 +15,13 @@ My background includes professional and research experience in 3D printing. I am
 
 ## Research interests
 
-Here is what I am passionate about in my studies and research experiences.
-
 ### Cosmology
 
-My overarching goal is to contribute to building an improved model of the Universe by applying innovative **statistical and artificial intelligence techniques** to cosmological surveys datasets.
+My overarching goal is to contribute to building an improved model of the Universe by applying innovative statistical and artificial intelligence techniques to galaxy surveys.
 
-I am currently working on improving intrinsic alignment modelling for the [Dark Enery Survey](https://www.darkenergysurvey.org/) Year 3 **cosmic shear** analyses using artificial intelligence algorithms and deep many-band imaging. My goal is to uncover and use the scaling of lensing source galaxies’ intrinsic alignment with their physical properties.
+Currently, I am involved in the weak lensing analyses with the final dataset of the Dark Energy Survey ([DES](https://www.darkenergysurvey.org/)), the leading lensing experiment to date, and on the preparation of the upcoming Legacy Survey of Space and Time ([LSST](https://lsstdesc.org/)).
 
-See the [Cosmology](https://elisalegnani.github.io/cosmology) page for details on my current project or if you want to learn about what I like in astrophysics and cosmology.
+For more details on my current projects and my interests in astrophysics and cosmology, please visit the [Cosmology](https://elisalegnani.github.io/cosmology) page.
 
 ### 3D print
 
