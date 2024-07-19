@@ -13,7 +13,7 @@ I am originally from Milan, a city in northern Italy. I lived there throughout m
 
 I am an outdoor activities enthusiast, particularly passionate of **mountain trekking** and **cycling**. I also like taking photos of the stunning landscapes I come across along the way. Spending time in nature, especially in the Alps and now in the Pyrenees, has deepened my love for animals and plants, and also strengthened my resilience and ability to find solutions using simple means.
 
-<img width=400 align="left" src="/assets/img/stambecco.png"/>
+<img width=340 align="left" src="/assets/img/stambecco.png"/>
 
 When I need a break from constantly moving around, I enjoy **drawing** and **reading**, as well as taking care of plants. I also love **hands-on work** and DIY projects, embracing a reuse-and-repair mindset that challenges my creativity.
 
