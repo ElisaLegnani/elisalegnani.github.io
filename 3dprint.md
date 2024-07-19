@@ -20,7 +20,7 @@ Direct3D has consistently achieved growing sales and profits. As a dedicated sci
 
 ## Research in medical technologies
 
-For my Bachelor's thesis, I developed and tested an efficient methodology for manufacturing realistic 3D cerebrovascular phantoms that replicate brain arteriovenous malformations, intended for use in stereotactic radiosurgery.
+For my Bachelor's thesis, I developed and tested an efficient methodology for manufacturing realistic **3D cerebrovascular phantoms** that replicate brain arteriovenous malformations, intended for use in stereotactic radiosurgery.
 
   <img class="post-img" width=300 align="right" src="/assets/img/mav.jpg"/>
 
