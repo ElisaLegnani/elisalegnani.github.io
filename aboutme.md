@@ -21,7 +21,7 @@ As a programming enthusiast and (somehow good) artist, I also enjoy doing some s
 
 ### Private lessons and Scouting
  
-Since high school, I have been helping younger students with their math and physics studies through individual and small group lessons. This personalized approach is my preferred method for outreach and teaching scientific reasoning, as it allows for in-depth exploration of concepts that are often harder to address in a larger public setting.
+Since high school, I have been helping younger students with their math and physics studies through individual and small group lessons. This personalized approach is my preferred method for **outreach** and teaching scientific reasoning, as it allows for in-depth exploration of concepts that are often harder to address in a larger public setting.
 
 As I value **education**, I also have been a scout leader of 12-16-year-olds over a five-year period. This role involved organizing weekly meetings, annual camps, and various events, working with a leadership team to plan and run activities that are both engaging and fit an educational programme.
 
