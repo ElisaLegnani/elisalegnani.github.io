@@ -7,15 +7,13 @@ title: About me
 
 <br>
 
-I am originally from Milan, a city in the north of Italy. I lived there throughout my education, and studied for both my Bachelor and my Master in Physics at the University of Milan. During the last year of my Master I moved to Munich to join [Daniel Gruen](https://www.physik.lmu.de/en/about-us/people/gruen-2.html)'s group on *Astrophysics Cosmology and Artificial Intelligence* at the Ludwig Maximilians University for a year long research stay funded by my University. I am now a PhD student in the *Observational Cosmology* group at [IFAE](https://www.ifae.es/) in Barcelona.
-
-<br>
+I am originally from Milan, a city in northern Italy. I lived there throughout my education and completed both my Bachelor's and my Master's degrees in Physics at the University of Milan. During the last year of my Master's I moved to Munich to join [Daniel Gruen](https://www.physik.lmu.de/en/about-us/people/gruen-2.html)'s group on *Astrophysics Cosmology and Artificial Intelligence* at the Ludwig Maximilians University for a year long research stay funded by my university. I am now a PhD student in the *Observational Cosmology* group at [IFAE](https://www.ifae.es/) in Barcelona.
 
 ## Hobbies
 
-I am an outdoor activities enthusiast. The ones I like most are **mountain trekking** and **cycling**. I also enjoy taking photos of the stunning landscapes I encounter on my way.
+I am an outdoor activities enthusiast, particularly passionate of **mountain trekking** and **cycling**. I also like taking photos of the stunning landscapes I encounter along the way.
 
-Sometimes I get tired of constantly moving around, and I love **drawing** and **reading**.
+When I need a break from constantly moving around, I enjoy **drawing** and **reading**. I also love **hands-on work** and DIY projects, embracing a reuse-and-repair mindset that challenges my creativity. 
 
 <img width=400 align="left" src="/assets/img/stambecco.png"/>
 
@@ -27,8 +25,9 @@ As a programming enthusiast and (somehow good) artist, I also enjoy doing some s
 
 ### Private lessons and Scouting
  
-Since I was in high school I used to help younger students for their math and physics studies, with individual or small group private lessons. It is my preferred way of doing outreach and teach scientific reasoning, as it allows me to reach individuals and to deepen concepts that in a public audience are harder to explore.
+Since high school, I have been helping younger students with their math and physics studies through individual and small group lessons. This personalized approach is my preferred method for outreach and teaching scientific reasoning, as it allows for in-depth exploration of concepts that are often harder to address in a larger public setting.
 
-As I value **education**, I also have been a scout leader of 12-16 years old kids for five years. This involves attending weekly meetings, yearly camps, and other events, and working alongside an adult leadership team to plan and run activities that engage young people and fit an educational programme.
+As I value **education**, I also have been a scout leader of 12-16-year-olds over a five-year period. This role involved organizing weekly meetings, annual camps, and various events, working with a leadership team to plan and run activities that are both engaging and fit an educational programme.
 
-Both these experiences played a great role in my team working and leadership abilities and communication skills. I also learned to plan systematically, but think creatively at the same time.
+Both of these experiences have significantly developed my teamwork, leadership, and communication skills, as well as my ability to plan systematically while thinking creatively.
+
