@@ -47,6 +47,8 @@ Campus UAB, Facultat Ciencies Nord <br>
 
 <img class="thumbnail-img" align="left" height=18 src="/assets/img/img_mail.png"/> [elegnani@ifae.es](mailto:elegnani@ifae.es)
 
+<!---* <img class="thumbnail-img" align="left" height=18 src="/assets/img/img_mail.png"/> [elegnani97@gmail.com](mailto:elegnani97@gmail.com)  *--->
+
 <br>
 
 <sub> Profile photo by [Bernardita Ried](https://sites.google.com/view/bernarditaried) <sub/>
