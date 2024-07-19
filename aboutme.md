@@ -19,8 +19,6 @@ As a programming enthusiast and (somehow good) artist, I also enjoy doing some s
 
 <!---* See my [Blog](https://elisalegnani.github.io/blog) page for more! *--->
 
-<!---* Ooops, almost forgot to mention my unconditional love for cats an animals. Here is Pepe :) *--->
-
 ### Private lessons and Scouting
  
 Since high school, I have been helping younger students with their math and physics studies through individual and small group lessons. This personalized approach is my preferred method for outreach and teaching scientific reasoning, as it allows for in-depth exploration of concepts that are often harder to address in a larger public setting.
