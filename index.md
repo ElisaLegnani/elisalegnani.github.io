@@ -5,11 +5,9 @@ title: Elisa Legnani
 
 <img class="circular-img" align="left" width=260 src="assets/img/me_23_2.jpg"/>
 
-I am a PhD student in Physics in the *Observational Cosmology* group at [IFAE](https://www.ifae.es/) in Barcelona. My aim is to deepen our understanding of the large-scale structure of the Universe by applying innovative statistical and software solutions to complex cosmological survey datasets.
+I am a PhD student in Physics in the *Observational Cosmology* group at [IFAE](https://www.ifae.es/) in Barcelona. My aim is to deepen our understanding of the large-scale structure of the Universe using advanced statistical and software solutions to tackle complex cosmological datasets.
 
 My background includes professional and research experience in 3D printing. I am passionate about computer science and software engineering, and I thoroughly enjoy problem-solving in general.
-
-<!---* particularly in advancing data analysis techniques across various fields of study.  *--->
 
 <br>
 
@@ -17,7 +15,7 @@ My background includes professional and research experience in 3D printing. I am
 
 ### Cosmology
 
-My overarching goal is to contribute to building an improved model of the Universe by using innovative statistical and artificial intelligence techniques to analyse galaxy surveys.
+My overarching goal is to contribute to building an improved model of the Universe by analyzing galaxy survey data using innovative statistical and artificial intelligence techniques.
 
 I am involved in the weak lensing analyses with the final dataset of the Dark Energy Survey ([DES](https://www.darkenergysurvey.org/)), the leading lensing experiment to date, and on the preparation of the upcoming Legacy Survey of Space and Time ([LSST](https://lsstdesc.org/)).
 
@@ -27,7 +25,7 @@ For more details on my current projects and my interests in astrophysics and cos
 
 I co-founded [Direct3D](https://www.direct3d.it/), a startup dedicated to developing, manufacturing, and selling a pellet extruder for 3D printing.
 
-Combining my expertise in this field with my background in physics, I authored a paper detailing a novel method I developed for manufacturing realistic 3D cerebrovascular phantoms to be used in radiosurgery applications.
+Combining my expertise in this field with my background in physics, I developed a novel method for manufacturing realistic 3D cerebrovascular phantoms to be used in radiosurgery applications.
 
 For more information, visit the [3D print](https://elisalegnani.github.io//3dprint) page.
 
