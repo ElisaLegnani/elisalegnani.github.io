@@ -13,9 +13,9 @@ I am originally from Milan, a city in northern Italy. I lived there throughout m
 
 I am an outdoor activities enthusiast, particularly passionate of **mountain trekking** and **cycling**. I also like taking photos of the stunning landscapes I encounter along the way.
 
-When I need a break from constantly moving around, I enjoy **drawing** and **reading**. I also love **hands-on work** and DIY projects, embracing a reuse-and-repair mindset that challenges my creativity. 
-
 <img width=400 align="left" src="/assets/img/stambecco.png"/>
+
+When I need a break from constantly moving around, I enjoy **drawing** and **reading**. I also love **hands-on work** and DIY projects, embracing a reuse-and-repair mindset that challenges my creativity. 
 
 As a programming enthusiast and (somehow good) artist, I also enjoy doing some simple **web design**. Here are a few examples of websites I built during my free time: [Feel@Home](https://www.feelathome.eu/) and [Direct3D](https://www.direct3d.it/).
 
