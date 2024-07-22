@@ -17,7 +17,7 @@ My background includes professional and research experience in 3D printing. I am
 
 I am involved in the weak lensing analyses effort of the Dark Energy Survey ([DES](https://www.darkenergysurvey.org/)), the leading lensing experiment to date. DES has completed a six-year observing program, covering about one quarter of the southern sky and imaging over 200 million galaxies in five broadband filters. 
 
-I am also working on the preparation of one the ambitious high-precision 'full-sky' galaxy surveys of this decade, the Legacy Survey of Space and Time ([LSST](https://lsstdesc.org/)), which will provide a sample of over 3 billion galaxies for lensing studies.
+I am also working on the preparation of one the ambitious high-precision full-sky galaxy surveys of this decade, the Legacy Survey of Space and Time ([LSST](https://lsstdesc.org/)), which will provide a sample of over 3 billion galaxies for lensing studies.
 
 For more details on my current projects and my interests in astrophysics and cosmology, please visit the [Cosmology](https://elisalegnani.github.io/cosmology) page.
 
