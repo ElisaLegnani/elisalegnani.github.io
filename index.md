@@ -17,9 +17,9 @@ My background includes professional and research experience in 3D printing. I am
 
 ### Cosmology
 
-I am involved in the weak lensing analyses effort of the Dark Energy Survey ([DES](https://www.darkenergysurvey.org/)), the leading lensing experiment to date. DES has completed a six-year observing program, covering about one quarter of the southern sky and imaging over 200 million galaxies in five broadband filters. 
+I am involved in the weak lensing analyses effort of the Dark Energy Survey ([DES](https://www.darkenergysurvey.org/)), the leading lensing experiment to date. DES has completed a six-year observing program, covering about one quarter of the southern sky and imaging over 200 million galaxies in five broadband filters. By observing how light from distant galaxies gets slightly distorted by intervening massive structures, we can map the matter distribution of our Universe and study its geometry and evolution over time. To distinguish between different models of our Universe, we need very accurate measurements, which requires carefully addressing various systematic errors. My work focuses on exploring and mitigating some of these errors, such as intrinsic alignments and magnification.
 
-I am also working on the preparation of one the ambitious high-precision full-sky galaxy surveys of this decade, the Legacy Survey of Space and Time ([LSST](https://lsstdesc.org/)), which will provide a sample of over 3 billion galaxies for lensing studies.
+I am also working on the preparation of one of the most ambitious high-precision full-sky galaxy surveys of this decade, the Legacy Survey of Space and Time ([LSST](https://lsstdesc.org/)), which will provide a sample of over 3 billion galaxies for lensing studies and unprecedented precision in constraining the cosmological model.
 
 For more details on my current projects and my interests in astrophysics and cosmology, please visit the [Cosmology](https://elisalegnani.github.io/cosmology) page.
 
@@ -53,7 +53,7 @@ Campus UAB, Facultat Ciencies Nord <br>
 
 <br>
 
-<sub> Profile photo by [Bernardita Ried](https://sites.google.com/view/bernarditaried) <sub/>
-
+<sub> <sup>1</sup> Profile photo by [Bernardita Ried](https://sites.google.com/view/bernarditaried) \
+<sup>2</sup> Simulation and reconstruction by Hess and Kitaura, visualization by Abel and Kaehler <sub/>
 
 <!---* I'll also try to keep the [Blog](https://elisalegnani.github.io/blog) page updated with some more random stuff I do. *--->
