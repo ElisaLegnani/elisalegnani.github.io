@@ -5,9 +5,9 @@ title: Elisa Legnani
 
 <img class="circular-img" align="left" width=260 src="assets/img/me_23_2.jpg"/>
 
-I am a PhD student in Physics in the *Observational Cosmology* group at [IFAE](https://www.ifae.es/) in Barcelona. My aim is to deepen our understanding of the large-scale structure of the Universe using advanced statistical and software solutions to tackle complex cosmological datasets.
+I am a PhD student in Physics in the *Observational Cosmology* group at [IFAE](https://www.ifae.es/) in Barcelona. I am interested in extracting meaningful insights from extensive galaxy survey data to deepen our understanding of the large-scale structure of the Universe. To achieve this, I develop innovative statistical methods and software solutions for data analysis.
 
-My background includes professional and research experience in 3D printing. I am passionate about computer science and software engineering, and I thoroughly enjoy problem-solving in general.
+My background includes professional and research experience in 3D printing. I am passionate about computer science, and I thoroughly enjoy problem-solving in general.
 
 <br>
 
@@ -15,9 +15,9 @@ My background includes professional and research experience in 3D printing. I am
 
 ### Cosmology
 
-My overarching goal is to contribute to building an improved model of the Universe by analyzing galaxy survey data using innovative statistical and artificial intelligence techniques.
+I am involved in the weak lensing analyses effort of the Dark Energy Survey ([DES](https://www.darkenergysurvey.org/)), the leading lensing experiment to date. DES has completed a six-year observing program, covering about one quarter of the southern sky and imaging over 200 million galaxies in five broadband filters. 
 
-I am involved in the weak lensing analyses with the final dataset of the Dark Energy Survey ([DES](https://www.darkenergysurvey.org/)), the leading lensing experiment to date, and on the preparation of the upcoming Legacy Survey of Space and Time ([LSST](https://lsstdesc.org/)).
+I am also working on the preparation of one the ambitious high-precision 'full-sky' galaxy surveys of this decade, the Legacy Survey of Space and Time ([LSST](https://lsstdesc.org/)), which will provide a sample of over 3 billion galaxies for lensing studies.
 
 For more details on my current projects and my interests in astrophysics and cosmology, please visit the [Cosmology](https://elisalegnani.github.io/cosmology) page.
 
