@@ -5,9 +5,9 @@ title: Cosmology
 
 <!---* Illustris Simulation. Time evolution of a 10Mpc (comoving) region within Illustris from the start of the simulation to z=0. The movie transitions between the dark matter density field, gas temperature (blue: cold, green: warm: white: hot), and gas metallicity. *--->
 
-I 
-
 Dark Energy Survey ([DES](https://www.darkenergysurvey.org/)) collaboration
+
+Rubin Observatory Legacy Survey of Space and Time Dark Energy Science Collaboration ([LSST DESC](https://lsstdesc.org/))
 
 <!---*The properties of dark matter and energy, which make up 95% of the Universe, affect how matter is distributed on large scales and how it has evolved over time. We study this distribution by mapping the positions of galaxies (in orange  in the picture) and studying the effect of the distortion of the shapes of more distant galaxies (in yellow) caused by gravitational lensing, more specifically using correlation fnction to condense the information.
 
@@ -17,9 +17,13 @@ By measuring source galaxy shape correlations, one can study the geometry of the
 
 The main DES Year 6 cosmology papers will analyze these maps with three measurements: cosmic shear, galaxy clustering and galaxy-galaxy lensing, to give us our best understanding of the dark universe.*--->
 
+## Intrinsic alignments
+
+<img class="post-img" width=200 align="right" src="/assets/img/IA_guide.png"/>
+
 See [The IA Guide](https://doi.org/10.21105/astro.2309.08605)
 
-Rubin Observatory Legacy Survey of Space and Time Dark Energy Science Collaboration ([LSST DESC](https://lsstdesc.org/))
+## Magnification
 
 
 <p style="color:red">Under construction</p>
