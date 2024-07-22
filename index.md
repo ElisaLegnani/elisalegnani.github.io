@@ -13,7 +13,7 @@ My background includes professional and research experience in 3D printing. I am
 
 ## Research interests
 
-<img class="post-img" width=180 align="right" src="/assets/img/LSS.png"/>
+<img class="post-img" width=200 align="right" src="/assets/img/LSS.png"/>
 
 ### Cosmology
 
