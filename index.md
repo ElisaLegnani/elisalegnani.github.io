@@ -15,7 +15,7 @@ My background includes professional and research experience in 3D printing. I am
 
 ### Cosmology
 
- <img class="post-img" width=100 align="right" src="/assets/img/LSS.jpg"/>
+<!---* <img class="post-img" width=100 align="right" src="/assets/img/LSS.jpg"/> *--->
 
 I am involved in the weak lensing analyses effort of the Dark Energy Survey ([DES](https://www.darkenergysurvey.org/)), the leading lensing experiment to date. DES has completed a six-year observing program, covering about one quarter of the southern sky and imaging over 200 million galaxies in five broadband filters. 
 
