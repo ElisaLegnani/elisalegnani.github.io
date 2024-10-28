@@ -25,7 +25,7 @@ The main DES Year 6 cosmology papers will analyze these maps with three measurem
 <br>[<mark>read the paper</mark>](https://doi.org/10.21105/astro.2309.08605)
 
 - J. McCullough, A. Amon, **E. Legnani**, D. Gruen, et al., **Dark Energy Survey Year 3: Blue shear**, *(journal TBD)*, 2024
-<br>[<mark>read the paper</mark>](https://elisalegnani.github.io/cosmology/), [<mark>see the data release page</mark>](https://jamiemccullough.github.io/data/blueshear/)
+<br>[<mark>read the paper</mark>](https://elisalegnani.github.io/cosmology/) [<mark>see the data release page</mark>](https://jamiemccullough.github.io/data/blueshear/)
 
 ## Magnification
 
