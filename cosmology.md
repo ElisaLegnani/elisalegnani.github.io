@@ -19,7 +19,7 @@ The main DES Year 6 cosmology papers will analyze these maps with three measurem
 
 ## Intrinsic alignments
 
-<img class="post-img" width=200 align="right" src="/assets/img/IA_guide.png"/>
+<img class="post-img" width=150 align="right" src="/assets/img/IA_guide.png"/>
 
 - C. Lamman, E. Tsaprazi, J. Shi, N. Šarčević, S. Pyne, **E. Legnani**, T. Ferreira, **The IA Guide: A Breakdown of Intrinsic Alignment Formalisms**, *The Open Journal of Astrophysics*, Feb 2023 &rarr; read the [paper](https://doi.org/10.21105/astro.2309.08605)
 
