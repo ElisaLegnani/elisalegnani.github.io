@@ -40,7 +40,7 @@ Here you can read my [Curriculum Vitae](https://drive.google.com/file/d/1hqm60XJ
 **&uarr;** &nbsp; *2022-Present* &nbsp; PhD student in Physics at IFAE in Barcelona
 <br> &nbsp;| &nbsp; *2021-2022* &nbsp; &nbsp; &nbsp; &nbsp; Visiting student at Ludwig Maximilians University in Munich
 <br> &nbsp;| &nbsp; *2018-2022* &nbsp; &nbsp; &nbsp; &nbsp; Direct3D co-founder in Milan
-<br> &nbsp;| &nbsp; *2016-2022* &nbsp; &nbsp; &nbsp; &nbsp; MSc and Bcs in Physics at the University of Milan
+<br> &nbsp;| &nbsp; *2016-2022* &nbsp; &nbsp; &nbsp; &nbsp; Bcs and MSc in Physics at the University of Milan
 
 If you want to know more about me and my projects you can have a look at [this page](https://elisalegnani.github.io/aboutme), at my [LinkedIn profile](https://www.linkedin.com/in/elisa-legnani-32590819b/) and at my repositories on [GitHub](https://github.com/ElisaLegnani).
 
