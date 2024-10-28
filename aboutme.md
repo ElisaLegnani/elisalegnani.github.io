@@ -7,13 +7,13 @@ title: About me
 
 <!---* I am originally from Milan, a city in northern Italy. I lived there throughout my education and completed both my Bachelor's and my Master's degrees in Physics at the University of Milan. During the last year of my Master's I moved to Munich to join [Daniel Gruen](https://www.physik.lmu.de/en/about-us/people/gruen-2.html)'s group on *Astrophysics Cosmology and Artificial Intelligence* at the Ludwig Maximilians University for a year long research stay funded by my university. I am now a PhD student in the *Observational Cosmology* group at [IFAE](https://www.ifae.es/) in Barcelona.  *--->
 
-&uarr; &nbsp; *2022-Present* &nbsp; PhD student in Physics at IFAE in Barcelona
+&uarr; &nbsp; *2022-Present* **PhD student in Physics at IFAE in Barcelona**
 <br> &nbsp;| &nbsp; Working with the *Observational Cosmology* group at [IFAE](https://www.ifae.es/groups/cosmology)
 <br> &nbsp;| &nbsp; 
-<br> &nbsp;| &nbsp; *2021-2022* &nbsp; &nbsp; &nbsp; &nbsp; Visiting student at Ludwig Maximilians University in Munich
+<br> &nbsp;| &nbsp; *2021-2022* **Visiting student at Ludwig Maximilians University in Munich**
 <br> &nbsp;| &nbsp; Research stay in Daniel Gruen's group on *Astrophysics Cosmology and Artificial Intelligence* ([ACAI](https://www.physik.lmu.de/observatory/en/research/cosmology-at-usm/acai-group/))
 <br> &nbsp;| &nbsp; 
-<br> &nbsp;| &nbsp; *2016-2022* &nbsp; &nbsp; &nbsp; &nbsp; MSc and Bcs in Physics at the University of Milan
+<br> &nbsp;| &nbsp; *2016-2022* **MSc and Bcs in Physics at the University of Milan**
 
 ## Hobbies
 
