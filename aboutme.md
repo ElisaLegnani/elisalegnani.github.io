@@ -14,7 +14,7 @@ title: About me
 <br> &nbsp;| &nbsp; *2021-2022* **Visiting student at Ludwig Maximilians University in Munich**
 <br> &nbsp;| &nbsp; Research stay in Daniel Gruen's group on *Astrophysics, Cosmology and Artificial Intelligence* ([ACAI](https://www.physik.lmu.de/observatory/en/research/cosmology-at-usm/acai-group/))
 <br> &nbsp;| &nbsp; 
-<br> &nbsp;| &nbsp; *2018-2022* **Direct3D in Milan**
+<br> &nbsp;| &nbsp; *2018-2022* **Direct3D co-founder in Milan**
 <br> &nbsp;| &nbsp; Co-founded the startup [Direct3D](https://www.direct3d.it/) focusing on the development, manufacturing, and sales of a pellet extruder for 3D printing
 <br> &nbsp;| &nbsp; 
 <br> &nbsp;| &nbsp; *2016-2022* **Bcs and MSc in Physics at the University of Milan**
