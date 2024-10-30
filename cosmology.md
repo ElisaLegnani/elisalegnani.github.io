@@ -23,7 +23,9 @@ The main DES Year 6 cosmology papers will analyze these maps with three measurem
 
 <img class="post-img" width=180 align="left" margin-right=2rem margin-top=0rem src="/assets/img/IAguide.png"/>
 
-A condensed overview of common notations and concepts relevant for describing the intrinsic alignment (IA) of galaxies. Designed as both an introduction for someone new to the field and a reference for those already familiar with IA, this resource presents a collection of IA formalisms, estimators, modeling approaches, alternative notations, and useful references.
+A condensed overview of common notations and concepts relevant for describing the intrinsic alignment (IA) of galaxies. 
+
+<!---*Designed as both an introduction for someone new to the field and a reference for those already familiar with IA, this resource presents a collection of IA formalisms, estimators, modeling approaches, alternative notations, and useful references.*--->
 
 C. Lamman, E. Tsaprazi, J. Shi, N. Šarčević, S. Pyne, **E. Legnani**, T. Ferreira, **The IA Guide: A Breakdown of Intrinsic Alignment Formalisms**, *The Open Journal of Astrophysics*, Feb 2023 
 <br>[<button>read the paper</button>](https://doi.org/10.21105/astro.2309.08605)
@@ -35,6 +37,8 @@ C. Lamman, E. Tsaprazi, J. Shi, N. Šarčević, S. Pyne, **E. Legnani**, T. Ferr
 <img class="post-img" width=180 align="left" margin-right=2rem margin-top=0rem src="/assets/img/blueshear.png"/>
 
 A cosmic shear reanalysis of the DES Y3 data limited to a pure sample of blue, star-forming galaxies, which is expected to be less impacted by IA. 
+
+<!---*The cosmological parameter constraints from this blue sample are stable to IA model choice, unlike the passive galaxies in the full DES Y3 sample, the goodness-of-fit is improved and the Ω<sub>m</sub> and S<sub>8</sub> better agree with Planck Cosmic Microwave Background observations. Mitigating intrinsic alignments via sample selection, instead of flexible model choices, can reduce uncertainty in S<sub>8</sub> by a factor of 1.5, with less uncertain IA on small scales.*--->
 
 J. McCullough, A. Amon, **E. Legnani**, D. Gruen, et al., **Dark Energy Survey Year 3: Blue shear**, *arxiv (journal TBD)*, Oct 2024
 <br>[<button>read the paper</button>](https://arxiv.org/abs/2410.22272) [<button>see the data release page</button>](https://jamiemccullough.github.io/data/blueshear/)
