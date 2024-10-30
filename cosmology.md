@@ -19,21 +19,22 @@ The main DES Year 6 cosmology papers will analyze these maps with three measurem
 
 <br>
 
-## Intrinsic alignments
+### Intrinsic alignments
 
 <img class="post-img" width=150 align="right" src="/assets/img/IA_guide.png"/>
 
-- C. Lamman, E. Tsaprazi, J. Shi, N. Šarčević, S. Pyne, **E. Legnani**, T. Ferreira, **The IA Guide: A Breakdown of Intrinsic Alignment Formalisms**, *The Open Journal of Astrophysics*, Feb 2023 
+C. Lamman, E. Tsaprazi, J. Shi, N. Šarčević, S. Pyne, **E. Legnani**, T. Ferreira, **The IA Guide: A Breakdown of Intrinsic Alignment Formalisms**, *The Open Journal of Astrophysics*, Feb 2023 
 <br>[<button>read the paper</button>](https://doi.org/10.21105/astro.2309.08605)
 
-- J. McCullough, A. Amon, **E. Legnani**, D. Gruen, et al., **Dark Energy Survey Year 3: Blue shear**, *arxiv (journal TBD)*, Oct 2024
+
+### Cosmic shear with blue galaxies
+
+J. McCullough, A. Amon, **E. Legnani**, D. Gruen, et al., **Dark Energy Survey Year 3: Blue shear**, *arxiv (journal TBD)*, Oct 2024
 <br>[<button>read the paper</button>](https://arxiv.org/abs/2410.22272) [<button>see the data release page</button>](https://jamiemccullough.github.io/data/blueshear/)
 
-<br>
 
-## Magnification
+### Magnification
 
 <p style="color:red">Under construction</p>
 
-<!---*<br>
-[<button>my ADS library</button>](https://ui.adsabs.harvard.edu/search/filter_author_facet_hier_fq_author=OR&filter_author_facet_hier_fq_author=author_facet_hier%3A%221%2FLegnani%2C%20E%2FLegnani%2C%20E%22&filter_author_facet_hier_fq_author=author_facet_hier%3A%221%2FLegnani%2C%20E%2FLegnani%2C%20Elisa%22&fq=%7B!type%3Daqp%20v%3D%24fq_author%7D&fq_author=(author_facet_hier%3A%221%2FLegnani%2C%20E%2FLegnani%2C%20E%22%20OR%20author_facet_hier%3A%221%2FLegnani%2C%20E%2FLegnani%2C%20Elisa%22)&p_=0&q=%20author%3A%22Legnani%2C%20E%22&sort=date%20desc%2C%20bibcode%20desc)*--->
+<!---* add <br> [<button>my ADS library</button>](https://ui.adsabs.harvard.edu/search/filter_author_facet_hier_fq_author=OR&filter_author_facet_hier_fq_author=author_facet_hier%3A%221%2FLegnani%2C%20E%2FLegnani%2C%20E%22&filter_author_facet_hier_fq_author=author_facet_hier%3A%221%2FLegnani%2C%20E%2FLegnani%2C%20Elisa%22&fq=%7B!type%3Daqp%20v%3D%24fq_author%7D&fq_author=(author_facet_hier%3A%221%2FLegnani%2C%20E%2FLegnani%2C%20E%22%20OR%20author_facet_hier%3A%221%2FLegnani%2C%20E%2FLegnani%2C%20Elisa%22)&p_=0&q=%20author%3A%22Legnani%2C%20E%22&sort=date%20desc%2C%20bibcode%20desc) *--->
