@@ -17,6 +17,8 @@ By measuring source galaxy shape correlations, one can study the geometry of the
 
 The main DES Year 6 cosmology papers will analyze these maps with three measurements: cosmic shear, galaxy clustering and galaxy-galaxy lensing, to give us our best understanding of the dark universe.*--->
 
+<br>
+
 ## Intrinsic alignments
 
 <img class="post-img" width=150 align="right" src="/assets/img/IA_guide.png"/>
@@ -26,6 +28,8 @@ The main DES Year 6 cosmology papers will analyze these maps with three measurem
 
 - J. McCullough, A. Amon, **E. Legnani**, D. Gruen, et al., **Dark Energy Survey Year 3: Blue shear**, *arxiv (journal TBD)*, Oct 2024
 <br>[<button>read the paper</button>](https://arxiv.org/abs/2410.22272) [<button>see the data release page</button>](https://jamiemccullough.github.io/data/blueshear/)
+
+<br>
 
 ## Magnification
 
