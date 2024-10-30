@@ -28,6 +28,8 @@ A condensed overview of common notations and concepts relevant for describing th
 C. Lamman, E. Tsaprazi, J. Shi, N. Šarčević, S. Pyne, **E. Legnani**, T. Ferreira, **The IA Guide: A Breakdown of Intrinsic Alignment Formalisms**, *The Open Journal of Astrophysics*, Feb 2023 
 <br>[<button>read the paper</button>](https://doi.org/10.21105/astro.2309.08605)
 
+<br>
+
 ### Cosmic shear with blue galaxies
 
 <img class="post-img" width=150 align="left" margin-right=2rem margin-top=0rem src="/assets/img/blueshear.png"/>
@@ -36,6 +38,8 @@ A cosmic shear reanalysis of the DES Y3 data limited to a pure sample of blue, s
 
 J. McCullough, A. Amon, **E. Legnani**, D. Gruen, et al., **Dark Energy Survey Year 3: Blue shear**, *arxiv (journal TBD)*, Oct 2024
 <br>[<button>read the paper</button>](https://arxiv.org/abs/2410.22272) [<button>see the data release page</button>](https://jamiemccullough.github.io/data/blueshear/)
+
+<br>
 
 ### Magnification
 
