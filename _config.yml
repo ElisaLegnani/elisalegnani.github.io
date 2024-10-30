@@ -14,6 +14,7 @@ author: Elisa Legnani
 # --- List of links in the navigation bar --- #
 
 navbar-links:
+  Home: "index"
   Cosmology: "cosmology"
   3D Print: "3dprint"
   CV: "https://drive.google.com/file/d/1hqm60XJ0-QDLmXFYZ1klpW1z_U_48r6b/view?usp=sharing"
