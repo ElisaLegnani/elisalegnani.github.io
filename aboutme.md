@@ -5,8 +5,9 @@ title: About me
 
 <img class="post-img" width=300 align="right" src="/assets/img/stambecchi.jpg"/>
 
-<!---* I am originally from Milan, a city in northern Italy. I lived there throughout my education and completed both my Bachelor's and my Master's degrees in Physics at the University of Milan. During the last year of my Master's I moved to Munich to join [Daniel Gruen](https://www.physik.lmu.de/en/about-us/people/gruen-2.html)'s group on *Astrophysics Cosmology and Artificial Intelligence* at the Ludwig Maximilians University for a year long research stay funded by my university. I am now a PhD student in the *Observational Cosmology* group at [IFAE](https://www.ifae.es/) in Barcelona.  *--->
+I am originally from Milan, a city in northern Italy. I lived there throughout my education and completed both my Bachelor's and my Master's degrees in Physics at the University of Milan. During the last year of my Master's I moved to Munich to join [Daniel Gruen](https://www.physik.lmu.de/en/about-us/people/gruen-2.html)'s group on *Astrophysics Cosmology and Artificial Intelligence* at the Ludwig Maximilians University for a year long research stay funded by my university. I am now a PhD student in the *Observational Cosmology* group at [IFAE](https://www.ifae.es/) in Barcelona.
 
+<!---*
 **&uarr;** &nbsp; 
 <br> &nbsp;| &nbsp; *2022-Present* **PhD student in Physics at IFAE in Barcelona**
 <br> &nbsp;| &nbsp; Working with the *Observational Cosmology* group at [IFAE](https://www.ifae.es/groups/cosmology)
@@ -20,7 +21,8 @@ title: About me
 <br> &nbsp;| &nbsp; *2016-2022* **Bcs and MSc in Physics at the University of Milan**
 <br> &nbsp;| &nbsp; Focused on Astrophysics, Statistics, and Computer Science
 <br> &nbsp;| &nbsp; 
-
+*--->
+ 
 ## Hobbies
 
 I am an outdoor activities enthusiast, particularly passionate of **mountain trekking** and **cycling**. I also like taking photos of the stunning landscapes I come across along the way. Spending time in nature, especially in the Alps and now in the Pyrenees, has deepened my love for animals and plants, and also strengthened my resilience and ability to find solutions using simple means.
