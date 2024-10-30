@@ -27,4 +27,4 @@ I processed brain computed tomography (CT) data acquired from patients and 3D-pr
 This project was conducted at the Interdisciplinary Centre for Nanostructured Materials and Interfaces ([CIMaINa](https://cimaina2.fisica.unimi.it/)) and was the first initiative of the [PRINTMED-3D](https://printmed-3d.com/en/) project, which had just started at the University of Milan.
 
 E. Legnani, et al., **Additive fabrication of a vascular 3D phantom for stereotactic radiosurgery of arteriovenous malformations**, *3D Printing and Additive Manufacturing*, Aug 2021, 217-226
-<br>[<mark>read the paper</mark>](https://www.liebertpub.com/doi/10.1089/3dp.2020.0305)
+<br>[<button>read the paper</button>](https://www.liebertpub.com/doi/10.1089/3dp.2020.0305)
