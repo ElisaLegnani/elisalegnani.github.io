@@ -37,4 +37,5 @@ As a programming enthusiast and (somehow good) artist, I also enjoy doing some s
 
 ### Education and outreach
 
-Since high school, I have been tutoring younger students in math and physics, offering idividual and small group sessions to make complex scientific concepts more accessible and engaging. Additionally, I served for five years as a scout leader for 12- to 16-year-olds, collaborating with a team to plan and lead weekly meetings, camps, and events aligned with an educational program. These experiences have strengthened my teamwork, leadership, and communication skills, as well as my ability to plan systematically while thinking creatively.
+Since high school, I have been tutoring younger students in math and physics, offering idividual and small group sessions to make complex scientific concepts more accessible and engaging. Additionally, I served for five years as a scout leader for 12- to 16-year-olds, collaborating with a team to plan and lead weekly meetings, camps, and events aligned with an educational program. 
+<!---* These experiences have strengthened my teamwork, leadership, and communication skills, as well as my ability to plan systematically while thinking creatively. *--->
