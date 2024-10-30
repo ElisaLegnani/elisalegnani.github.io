@@ -21,7 +21,7 @@ The main DES Year 6 cosmology papers will analyze these maps with three measurem
 
 ### Intrinsic alignments
 
-<img class="post-img" width=180 align="left" margin-right=2rem margin-top=0rem src="/assets/img/IA_guide.png"/>
+<img class="post-img" width=180 align="left" margin-right=2rem margin-top=0rem src="/assets/img/IAguide.png"/>
 
 A condensed overview of common notations and concepts relevant for describing the intrinsic alignment (IA) of galaxies.
 
