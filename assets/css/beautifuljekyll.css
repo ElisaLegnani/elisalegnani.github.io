@@ -406,6 +406,7 @@ footer .copyright {
   margin-top: 0;
 }
 footer .theme-by {
+  color: "#404040";
   text-align: center;
   margin: 0.625rem 0 0;
 }
