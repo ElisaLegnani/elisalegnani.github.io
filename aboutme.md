@@ -35,11 +35,6 @@ As a programming enthusiast and (somehow good) artist, I also enjoy doing some s
 
 <!---* See my [Blog](https://elisalegnani.github.io/blog) page for more! *--->
 
-### Private lessons and Scouting
- 
-Since high school, I have been helping younger students with their math and physics studies through individual and small group lessons. This personalized approach is my preferred method for **outreach** and teaching scientific reasoning, as it allows for in-depth exploration of concepts that are often harder to address in a larger public setting.
+### Education and outreach
 
-As I value **education**, I also have been a scout leader of 12-16-year-olds over a five-year period. This role involved organizing weekly meetings, annual camps, and various events, working with a leadership team to plan and run activities that are both engaging and fit an educational programme.
-
-Both of these experiences have significantly developed my teamwork, leadership, and communication skills, as well as my ability to plan systematically while thinking creatively.
-
+Since high school, I have been tutoring younger students in math and physics, offering idividual and small group sessions to make complex scientific concepts more accessible and engaging. Additionally, I served for five years as a scout leader for 12- to 16-year-olds, collaborating with a team to plan and lead weekly meetings, camps, and events aligned with an educational program. These experiences have strengthened my teamwork, leadership, and communication skills, as well as my ability to plan systematically while thinking creatively.
