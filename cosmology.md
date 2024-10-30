@@ -24,8 +24,8 @@ The main DES Year 6 cosmology papers will analyze these maps with three measurem
 - C. Lamman, E. Tsaprazi, J. Shi, N. Šarčević, S. Pyne, **E. Legnani**, T. Ferreira, **The IA Guide: A Breakdown of Intrinsic Alignment Formalisms**, *The Open Journal of Astrophysics*, Feb 2023 
 <br>[<mark>read the paper</mark>](https://doi.org/10.21105/astro.2309.08605)
 
-- J. McCullough, A. Amon, **E. Legnani**, D. Gruen, et al., **Dark Energy Survey Year 3: Blue shear**, *(journal TBD)*, 2024
-<br>[<mark>read the paper</mark>](https://elisalegnani.github.io/cosmology/) [<mark>see the data release page</mark>](https://jamiemccullough.github.io/data/blueshear/)
+- J. McCullough, A. Amon, **E. Legnani**, D. Gruen, et al., **Dark Energy Survey Year 3: Blue shear**, *arxiv (journal TBD)*, 2024
+<br>[<mark>read the paper</mark>](https://arxiv.org/abs/2410.22272) [<mark>see the data release page</mark>](https://jamiemccullough.github.io/data/blueshear/)
 
 ## Magnification
 
