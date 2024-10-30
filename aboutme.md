@@ -5,7 +5,7 @@ title: About me
 
 <img class="post-img" width=300 align="right" src="/assets/img/stambecchi.jpg"/>
 
-I am originally from Milan, a city in northern Italy. I lived there throughout my education and completed both my Bachelor's and my Master's degrees in Physics at the University of Milan. During the last year of my Master's I moved to Munich to join [Daniel Gruen](https://www.physik.lmu.de/en/about-us/people/gruen-2.html)'s group on *Astrophysics Cosmology and Artificial Intelligence* at the Ludwig Maximilians University for a year long research stay funded by my university. I am now a PhD student in the *Observational Cosmology* group at [IFAE](https://www.ifae.es/) in Barcelona.
+I am originally from Milan, a city in northern Italy. I lived there throughout my education and completed both my Bachelor's and my Master's degrees in Physics at the University of Milan. During the last year of my Master's I moved to Munich to join Daniel Gruen's group on *Astrophysics Cosmology and Artificial Intelligence* ([ACAI](https://www.physik.lmu.de/observatory/en/research/cosmology-at-usm/acai-group/)) at the Ludwig Maximilians University for a year long research stay funded by my university. I am now a PhD student in the *Observational Cosmology* group at [IFAE](https://www.ifae.es/groups/cosmology) in Barcelona.
 
 <!---*
 **&uarr;** &nbsp; 
