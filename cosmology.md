@@ -21,7 +21,7 @@ The main DES Year 6 cosmology papers will analyze these maps with three measurem
 
 ### Intrinsic alignments
 
-<img class="post-img" width=180 align="left" margin-right=2rem margin-top=0rem src="/assets/img/IA_guide.png"/>
+<img class="post-img" width=160 align="left" margin-right=2rem margin-top=0rem src="/assets/img/IA_guide.png"/>
 
 A condensed overview of common notations and concepts relevant for describing the intrinsic alignment (IA) of galaxies.
 
@@ -32,7 +32,7 @@ C. Lamman, E. Tsaprazi, J. Shi, N. Šarčević, S. Pyne, **E. Legnani**, T. Ferr
 
 ### Cosmic shear with blue galaxies
 
-<img class="post-img" width=180 align="left" margin-right=2rem margin-top=0rem src="/assets/img/blueshear.png"/>
+<img class="post-img" width=160 align="left" margin-right=2rem margin-top=0rem src="/assets/img/blueshear.png"/>
 
 A cosmic shear reanalysis of the DES Y3 data limited to a pure sample of blue, star-forming galaxies, which is expected to be less impacted by IA. 
 
