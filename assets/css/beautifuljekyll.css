@@ -1131,8 +1131,8 @@ pre {
   margin-right: 0.5rem;
 }
 
-/* mark for buuttons */
-mark {
+/* Button */
+button {
     padding: 2px 4px;
     font-size: 90%;
     color: #fff;
@@ -1141,7 +1141,7 @@ mark {
     -webkit-box-shadow: inset 0 -1px 0 rgba(0, 0, 0, 0.25);
     box-shadow: inset 0 -1px 0 rgba(0, 0, 0, 0.25);
 }
-mark:hover,
-mark:focus {
-  color: {{ site.hover-col | default: "#0085A1" }};
+button:hover,
+button:focus {
+  background-color: {{ site.hover-col | default: "#0085A1" }};
 }
