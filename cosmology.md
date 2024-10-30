@@ -34,3 +34,6 @@ The main DES Year 6 cosmology papers will analyze these maps with three measurem
 ## Magnification
 
 <p style="color:red">Under construction</p>
+
+<!---*<br>
+[<button>my ADS library</button>](https://ui.adsabs.harvard.edu/search/filter_author_facet_hier_fq_author=OR&filter_author_facet_hier_fq_author=author_facet_hier%3A%221%2FLegnani%2C%20E%2FLegnani%2C%20E%22&filter_author_facet_hier_fq_author=author_facet_hier%3A%221%2FLegnani%2C%20E%2FLegnani%2C%20Elisa%22&fq=%7B!type%3Daqp%20v%3D%24fq_author%7D&fq_author=(author_facet_hier%3A%221%2FLegnani%2C%20E%2FLegnani%2C%20E%22%20OR%20author_facet_hier%3A%221%2FLegnani%2C%20E%2FLegnani%2C%20Elisa%22)&p_=0&q=%20author%3A%22Legnani%2C%20E%22&sort=date%20desc%2C%20bibcode%20desc)*--->
