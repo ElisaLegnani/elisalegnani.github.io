@@ -23,7 +23,7 @@ The main DES Year 6 cosmology papers will analyze these maps with three measurem
 
 <img class="post-img" width=180 align="left" margin-right=2rem margin-top=0rem src="/assets/img/IAguide.png"/>
 
-A condensed overview of common notations and concepts relevant for describing the intrinsic alignment (IA) of galaxies.
+A condensed overview of common notations and concepts relevant for describing the intrinsic alignment (IA) of galaxies. Designed as both an introduction for someone new to the field and a reference for those already familiar with IA, this resource presents a collection of IA formalisms, estimators, modeling approaches, alternative notations, and useful references.
 
 C. Lamman, E. Tsaprazi, J. Shi, N. Šarčević, S. Pyne, **E. Legnani**, T. Ferreira, **The IA Guide: A Breakdown of Intrinsic Alignment Formalisms**, *The Open Journal of Astrophysics*, Feb 2023 
 <br>[<button>read the paper</button>](https://doi.org/10.21105/astro.2309.08605)
