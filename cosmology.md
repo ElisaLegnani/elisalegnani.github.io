@@ -21,20 +21,32 @@ The main DES Year 6 cosmology papers will analyze these maps with three measurem
 
 ### Intrinsic alignments
 
-<img class="post-img" width=150 align="right" src="/assets/img/IA_guide.png"/>
+<img class="post-img" width=150 align="left" src="/assets/img/IA_guide.png"/>
+
+A condensed overview of common notations and concepts relevant for describing the intrinsic alignment (IA) of galaxies.
 
 C. Lamman, E. Tsaprazi, J. Shi, N. Šarčević, S. Pyne, **E. Legnani**, T. Ferreira, **The IA Guide: A Breakdown of Intrinsic Alignment Formalisms**, *The Open Journal of Astrophysics*, Feb 2023 
 <br>[<button>read the paper</button>](https://doi.org/10.21105/astro.2309.08605)
 
+<br>
 
 ### Cosmic shear with blue galaxies
+
+<img class="post-img" width=150 align="left" src="/assets/img/blueshear.png"/>
+
+A cosmic shear reanalysis of the DES Y3 data limited to a pure sample of blue, star-forming galaxies, which is expected to be less impacted by IA. 
 
 J. McCullough, A. Amon, **E. Legnani**, D. Gruen, et al., **Dark Energy Survey Year 3: Blue shear**, *arxiv (journal TBD)*, Oct 2024
 <br>[<button>read the paper</button>](https://arxiv.org/abs/2410.22272) [<button>see the data release page</button>](https://jamiemccullough.github.io/data/blueshear/)
 
+<br>
 
 ### Magnification
 
-<p style="color:red">Under construction</p>
+DES Y6, paper in prep.
+
+<br>
+
+<p style="color:red">Page under construction</p>
 
 <!---* add <br> [<button>my ADS library</button>](https://ui.adsabs.harvard.edu/search/filter_author_facet_hier_fq_author=OR&filter_author_facet_hier_fq_author=author_facet_hier%3A%221%2FLegnani%2C%20E%2FLegnani%2C%20E%22&filter_author_facet_hier_fq_author=author_facet_hier%3A%221%2FLegnani%2C%20E%2FLegnani%2C%20Elisa%22&fq=%7B!type%3Daqp%20v%3D%24fq_author%7D&fq_author=(author_facet_hier%3A%221%2FLegnani%2C%20E%2FLegnani%2C%20E%22%20OR%20author_facet_hier%3A%221%2FLegnani%2C%20E%2FLegnani%2C%20Elisa%22)&p_=0&q=%20author%3A%22Legnani%2C%20E%22&sort=date%20desc%2C%20bibcode%20desc) *--->
