@@ -381,8 +381,12 @@ footer {
   {% endif %}
 }
 
-footer p.text-muted {
+footer p {
   color: {{ site.footer-text-col | default: "#777777" }} !important;
+}
+
+footer p.text-muted {
+  color: "#777777";
 }
 
 footer a {
