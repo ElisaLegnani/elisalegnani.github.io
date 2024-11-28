@@ -1145,3 +1145,10 @@ button:hover,
 button:focus {
   background-color: {{ site.hover-col | default: "#0085A1" }};
 }
+
+
+@media (min-width: 768px) {
+    .container, .container-md, .container-sm {
+        max-width: 800px;
+    }
+}
