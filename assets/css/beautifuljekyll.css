@@ -1149,6 +1149,6 @@ button:focus {
 
 @media (min-width: 768px) {
     .container, .container-md, .container-sm {
-        max-width: 680px;
+        max-width: 1000px;
     }
 }
