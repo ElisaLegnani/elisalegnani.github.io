@@ -51,6 +51,16 @@ DES Y6, paper in prep.
 
 <br>
 
+### Synthetic-source injection
+<img class="post-img" width=180 align="right" src="/assets/img/balrog.png"/>
+
+A synthetic source injection (SSI) catalog of 146 million injections across the DES's 5000 deg² footprint, used to characterize image processing algorithms and derive key quantities for the DES Y6 cosmology analysis.
+
+D. Anbajagane, M. Tabbutt, et al. (incl. **E. Legnani**), **Dark Energy Survey Year 6 Results: Synthetic-source Injection Across the Full Survey Using Balrog**, *arxiv (journal TBD)*, Jan 2025
+<br>[<button>read the paper</button>](https://arxiv.org/abs/2501.05683)
+
+<br>
+
 <p style="color:red">Page under construction</p>
 
 <!---* add <br> [<button>my ADS library</button>](https://ui.adsabs.harvard.edu/search/filter_author_facet_hier_fq_author=OR&filter_author_facet_hier_fq_author=author_facet_hier%3A%221%2FLegnani%2C%20E%2FLegnani%2C%20E%22&filter_author_facet_hier_fq_author=author_facet_hier%3A%221%2FLegnani%2C%20E%2FLegnani%2C%20Elisa%22&fq=%7B!type%3Daqp%20v%3D%24fq_author%7D&fq_author=(author_facet_hier%3A%221%2FLegnani%2C%20E%2FLegnani%2C%20E%22%20OR%20author_facet_hier%3A%221%2FLegnani%2C%20E%2FLegnani%2C%20Elisa%22)&p_=0&q=%20author%3A%22Legnani%2C%20E%22&sort=date%20desc%2C%20bibcode%20desc) *--->
