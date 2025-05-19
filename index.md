@@ -58,7 +58,8 @@ Campus UAB, Facultat Ciencies Nord <br>
 
 <br>
 
-<sub> <sup>1</sup> Profile photo by [Bernardita Ried](https://sites.google.com/view/bernarditaried) \
-<sup>2</sup> Simulation and reconstruction by Hess and Kitaura, visualization by Abel and Kaehler <sub/>
+<sub> 
+<!---*<sup>1</sup> Profile photo by [Bernardita Ried](https://sites.google.com/view/bernarditaried) \   *--->
+<sup>1</sup> Simulation and reconstruction by Hess and Kitaura, visualization by Abel and Kaehler <sub/>
 
 <!---* I'll also try to keep the [Blog](https://elisalegnani.github.io/blog) page updated with some more random stuff I do. *--->
