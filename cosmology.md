@@ -47,7 +47,9 @@ J. McCullough, A. Amon, **E. Legnani**, D. Gruen, et al., **Dark Energy Survey Y
 
 ### Magnification
 
-DES Y6, paper in prep.
+An analysis of the impact of gravitational lensing magnification on DES Y6 galaxy clustering and galaxy–galaxy lensing measurements, using synthetic source injection to model magnification bias and ensure unbiased cosmological constraints.
+
+**E. Legnani**, et al., **Dark Energy Survey Year 6 Results: Magnification modeling and its impact on galaxy clustering and galaxy-galaxy lensing cosmology**, *in prep.*, Dec 2024
 
 <br>
 
@@ -60,7 +62,4 @@ D. Anbajagane, M. Tabbutt, et al. (incl. **E. Legnani**), **Dark Energy Survey Y
 <br>[<button>read the paper</button>](https://arxiv.org/abs/2501.05683)
 
 <br>
-
-<p style="color:red">Page under construction</p>
-
 <!---* add <br> [<button>my ADS library</button>](https://ui.adsabs.harvard.edu/search/filter_author_facet_hier_fq_author=OR&filter_author_facet_hier_fq_author=author_facet_hier%3A%221%2FLegnani%2C%20E%2FLegnani%2C%20E%22&filter_author_facet_hier_fq_author=author_facet_hier%3A%221%2FLegnani%2C%20E%2FLegnani%2C%20Elisa%22&fq=%7B!type%3Daqp%20v%3D%24fq_author%7D&fq_author=(author_facet_hier%3A%221%2FLegnani%2C%20E%2FLegnani%2C%20E%22%20OR%20author_facet_hier%3A%221%2FLegnani%2C%20E%2FLegnani%2C%20Elisa%22)&p_=0&q=%20author%3A%22Legnani%2C%20E%22&sort=date%20desc%2C%20bibcode%20desc) *--->
