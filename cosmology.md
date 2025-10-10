@@ -49,7 +49,7 @@ J. McCullough, A. Amon, **E. Legnani**, D. Gruen, et al., **Dark Energy Survey Y
 
 An analysis of the impact of gravitational lensing magnification on DES Y6 galaxy clustering and galaxy–galaxy lensing measurements, using synthetic source injection to model magnification bias and ensure unbiased cosmological constraints.
 
-**E. Legnani**, et al., **Dark Energy Survey Year 6 Results: Magnification modeling and its impact on galaxy clustering and galaxy-galaxy lensing cosmology**, *in prep.*, Dec 2024
+**E. Legnani**, et al., **Dark Energy Survey Year 6 Results: Magnification modeling and its impact on galaxy clustering and galaxy-galaxy lensing cosmology**, *in prep.*, Dec 2025
 
 <br>
 
