@@ -3,8 +3,8 @@ layout: page
 title: Elisa Legnani
 ---
 
-<div class="avatar">
-  <div class="post-img" align="left" width=260 src="assets/img/me_25.jpeg"/></div>
+<div class="avatar" align="left">
+  <img class="post-img" src="assets/img/me_25.jpeg" width="260" />
 </div>
 <!---* <img class="circular-img" align="left" width=260 src="assets/img/me_25.jpeg"/> *--->
 
