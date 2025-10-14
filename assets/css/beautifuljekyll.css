@@ -1157,6 +1157,11 @@ button:focus {
 .avatar {
   position: relative;
   display: inline-block;
+  float: left;
+  margin-top: 0rem;
+  margin-bottom: 1.5rem;
+  margin-left: 2.5rem;
+  margin-right: 3rem;
 }
 
 .avatar .profile-img {
