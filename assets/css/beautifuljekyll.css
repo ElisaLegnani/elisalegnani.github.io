@@ -1159,7 +1159,7 @@ button:focus {
   display: inline-block;
 }
 
-.avatar .post-img {
+.avatar .profile-img {
   width: 260px;
   height: 260px;
   object-fit: cover;
