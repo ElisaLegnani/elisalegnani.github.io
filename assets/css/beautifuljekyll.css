@@ -1158,7 +1158,7 @@ button:focus {
   position: relative;
   display: inline-block;
   float: left;
-  margin-top: 0rem;
+  margin-top: 1rem;
   margin-bottom: 2.5rem;
   margin-left: 2.5rem;
   margin-right: 3rem;
