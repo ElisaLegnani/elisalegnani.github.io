@@ -1196,31 +1196,45 @@ button:focus {
   }
 }
 
-
-.cosmo-section {
-    background-image: url('/assets/img/LSS_big.png');
-    background-size: cover;           /* makes the image fill the box */
-    background-attachment: fixed;     /* makes it full-page style */
-    background-position: center;      /* centers the image */
-    background-repeat: no-repeat;     /* avoids tiling */
-
+/* FULL-WIDTH BACKGROUND */
+.cosmo-fullwidth {
     position: relative;
-    padding: 25px;                    /* space so text isn’t flush */
-    border-radius: 12px;              /* optional rounded corners */
-    color: white;                     /* text readable on dark image */
-    backdrop-filter: blur(2px);       /* softens the bg (optional) */
+    width: 100vw;             /* exactly viewport width */
+    left: 50%;
+    right: 50%;
+    margin-left: -50vw;       /* break out of centered container */
+    margin-right: -50vw;
+
+    background-image: url('/assets/img/LSS_big.png');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+
+    padding: 60px 0;          /* top/bottom spacing only */
+    overflow: hidden;         /* hides rotation overflow */
 }
 
-.cosmo-section::before {
+/* optional rotation */
+.cosmo-fullwidth::before {
     content: "";
     position: absolute;
     inset: 0;
-    background: rgba(0, 0, 0, 0.4);   /* dark transparent overlay */
-    border-radius: 12px;
+
+    background-image: inherit;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+
     z-index: 0;
 }
 
-.cosmo-section > * {
+/* Make text readable and centered */
+.cosmo-inner {
     position: relative;
-    z-index: 1;                       /* make text appear on top */
+    z-index: 1;
+
+    max-width: 900px;    /* matches your page width */
+    margin: auto;
+    padding: 0 20px;
+    color: white;
 }
