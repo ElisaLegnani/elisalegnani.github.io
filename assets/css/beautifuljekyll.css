@@ -1196,3 +1196,29 @@ button:focus {
   }
 }
 
+.cosmo-section {
+    background-image: url('/assets/img/LSS_big.png');
+    background-size: cover;           /* makes the image fill the box */
+    background-position: center;      /* centers the image */
+    background-repeat: no-repeat;     /* avoids tiling */
+
+    position: relative;
+    padding: 25px;                    /* space so text isn’t flush */
+    border-radius: 12px;              /* optional rounded corners */
+    color: white;                     /* text readable on dark image */
+    backdrop-filter: blur(2px);       /* softens the bg (optional) */
+}
+
+.cosmo-section::before {
+    content: "";
+    position: absolute;
+    inset: 0;
+    background: rgba(0, 0, 0, 0.4);   /* dark transparent overlay */
+    border-radius: 12px;
+    z-index: 0;
+}
+
+.cosmo-section > * {
+    position: relative;
+    z-index: 1;                       /* make text appear on top */
+}
