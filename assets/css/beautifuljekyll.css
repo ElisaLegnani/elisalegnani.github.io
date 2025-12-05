@@ -1196,9 +1196,11 @@ button:focus {
   }
 }
 
+
 .cosmo-section {
     background-image: url('/assets/img/LSS_big.png');
     background-size: cover;           /* makes the image fill the box */
+    background-attachment: fixed;     /* makes it full-page style */
     background-position: center;      /* centers the image */
     background-repeat: no-repeat;     /* avoids tiling */
 
