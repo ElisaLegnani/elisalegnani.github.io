@@ -16,7 +16,8 @@ My background includes professional and research experience in 3D printing. I am
 
 ## Research interests
 
-<div class="cosmo-section">
+<div class="cosmo-fullwidth">
+<div class="cosmo-inner">
 
 ### Cosmology
 
@@ -28,6 +29,7 @@ I am also working on the preparation of one of the most ambitious high-precision
 
 For more details on my current projects and my interests in astrophysics and cosmology, please visit the [Cosmology](https://elisalegnani.github.io/cosmology) page.
 
+</div>
 </div>
 
 ### 3D print
