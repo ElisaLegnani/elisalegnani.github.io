@@ -1227,11 +1227,12 @@ button:focus {
   z-index: 0;
 }
 
-.cosmology-bg .container-md,
-.cosmology-bg .container-md h1,
-.cosmology-bg .container-md h2,
-.cosmology-bg .container-md h3,
-.cosmology-bg .container-md p {
+.cosmology-bg .col-xl-8,
+.cosmology-bg .col-lg-10,
+.cosmology-bg h1,
+.cosmology-bg h2,
+.cosmology-bg h3,
+.cosmology-bg p {
   color: #f0f0e8 !important;
   position: relative;
   z-index: 1;
