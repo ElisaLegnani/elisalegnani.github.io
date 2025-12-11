@@ -20,6 +20,8 @@ My background includes professional and research experience in 3D printing. I am
 
 <div class="fullwidth-bg cosmology-bg">
   <div class="container-md" markdown="1">
+    <div class="row">
+      <div class="col-xl-8 offset-xl-2 col-lg-10 offset-lg-1">
     
 ### Cosmology
 
@@ -31,6 +33,8 @@ I am also working on the preparation of one of the most ambitious high-precision
 
 For more details on my current projects and my interests in astrophysics and cosmology, please visit the [Cosmology](https://elisalegnani.github.io/cosmology) page.
 
+      </div>
+    </div>
   </div>
 </div>
 
