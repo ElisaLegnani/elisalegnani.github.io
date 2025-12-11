@@ -1226,7 +1226,6 @@ button:focus {
 .cosmology-bg {
   background-image: url('/assets/img/LSS_big.png');
   background-attachment: fixed;
-  min-height: 500px;  /* enough height to show movement */
 }
 
 .fullwidth-bg.cosmology-bg::before {
