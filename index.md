@@ -34,6 +34,8 @@ For more details on my current projects and my interests in astrophysics and cos
   </div>
 </div>
 
+<div style="height: 10px;"></div>
+
 ### 3D print
 
 I co-founded [Direct3D](https://www.direct3d.it/), a startup dedicated to developing, manufacturing, and selling a pellet extruder for 3D printing.
