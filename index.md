@@ -16,6 +16,8 @@ My background includes professional and research experience in 3D printing. I am
 
 ## Research interests
 
+<br>
+
 <div class="fullwidth-bg cosmology-bg">
   <div class="bg-inner" markdown="1">
     
