@@ -1241,7 +1241,6 @@ button:focus {
 .cosmology-bg .bg-inner h1,
 .cosmology-bg .bg-inner h2,
 .cosmology-bg .bg-inner h3,
-.cosmology-bg .bg-inner p,
-.cosmology-bg .bg-inner a {
+.cosmology-bg .bg-inner p {
   color: #f0f0e8 !important;
 }
