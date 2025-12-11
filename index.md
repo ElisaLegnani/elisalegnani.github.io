@@ -21,7 +21,7 @@ My background includes professional and research experience in 3D printing. I am
 <div class="fullwidth-bg cosmology-bg">
   <div class="container-md" role="main">
     <div class="row">
-      <div class="col-xl-8 offset-xl-2 col-lg-10 offset-lg-1">
+      <div class="col-xl-8 offset-xl-2 col-lg-10 offset-lg-1" markdown="1">
     
 ### Cosmology
 
