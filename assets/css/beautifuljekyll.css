@@ -1197,44 +1197,32 @@ button:focus {
 }
 
 /* FULL-WIDTH BACKGROUND */
-.cosmo-fullwidth {
-    position: relative;
-    width: 100vw;             /* exactly viewport width */
-    left: 50%;
-    right: 50%;
-    margin-left: -50vw;       /* break out of centered container */
-    margin-right: -50vw;
+.fullwidth-bg {
+  position: relative;
 
-    background-image: url('/assets/img/LSS_big.png');
-    background-size: cover;
-    background-position: center;
-    background-repeat: no-repeat;
+  /* Break out of Beautiful Jekyll's fixed-width container */
+  width: 100vw;
+  left: 50%;
+  right: 50%;
+  margin-left: -50vw;
+  margin-right: -50vw;
 
-    padding: 60px 0;          /* top/bottom spacing only */
-    overflow: hidden;         /* hides rotation overflow */
+  /* Background image */
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+
+  padding: 60px 0;
 }
 
-/* optional rotation */
-.cosmo-fullwidth::before {
-    content: "";
-    position: absolute;
-    inset: 0;
-
-    background-image: inherit;
-    background-size: cover;
-    background-position: center;
-    background-repeat: no-repeat;
-
-    z-index: 0;
+.bg-inner {
+  max-width: 900px;      /* matches Beautiful Jekyll content width */
+  margin: 0 auto;
+  padding: 20px;
+  position: relative;
+  z-index: 1;
 }
 
-/* Make text readable and centered */
-.cosmo-inner {
-    position: relative;
-    z-index: 1;
-
-    max-width: 900px;    /* matches your page width */
-    margin: auto;
-    padding: 0 20px;
-    color: white;
+.cosmology-bg {
+  background-image: url('/assets/img/LSS_big.png');
 }
