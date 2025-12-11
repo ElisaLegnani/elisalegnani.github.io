@@ -1226,3 +1226,20 @@ button:focus {
 .cosmology-bg {
   background-image: url('/assets/img/LSS_big.png');
 }
+
+.fullwidth-bg.cosmology-bg::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: rgba(0,0,0,0.35); /* darken background */
+  z-index: 0;
+}
+
+.cosmology-bg .bg-inner,
+.cosmology-bg .bg-inner h1,
+.cosmology-bg .bg-inner h2,
+.cosmology-bg .bg-inner h3,
+.cosmology-bg .bg-inner p,
+.cosmology-bg .bg-inner a {
+  color: white !important;
+}
