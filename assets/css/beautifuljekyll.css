@@ -1216,7 +1216,7 @@ button:focus {
 }
 
 .bg-inner {
-  max-width: 720px;      /* matches Beautiful Jekyll content width */
+  width: 100%;     /* matches Beautiful Jekyll content width */
   margin: 0 auto;
   padding: 15px;
   position: relative;
@@ -1225,6 +1225,8 @@ button:focus {
 
 .cosmology-bg {
   background-image: url('/assets/img/LSS_big.png');
+  background-attachment: fixed;
+  min-height: 500px;  /* enough height to show movement */
 }
 
 .fullwidth-bg.cosmology-bg::before {
@@ -1241,5 +1243,5 @@ button:focus {
 .cosmology-bg .bg-inner h3,
 .cosmology-bg .bg-inner p,
 .cosmology-bg .bg-inner a {
-  color: white !important;
+  color: #f0f0e8 !important;
 }
