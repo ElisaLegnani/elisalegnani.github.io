@@ -32,7 +32,6 @@ I am involved in the weak lensing analyses effort of the Dark Energy Survey ([DE
 I am also working on the preparation of one of the most ambitious high-precision full-sky galaxy surveys of this decade, the Legacy Survey of Space and Time ([LSST](https://lsstdesc.org/)), which will provide a sample of over 3 billion galaxies for lensing studies and unprecedented precision in constraining the cosmological model.
 
 For more details on my current projects and my interests in astrophysics and cosmology, please visit the [Cosmology](https://elisalegnani.github.io/cosmology) page.
-
       </div>
     </div>
   </div>
