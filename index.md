@@ -19,7 +19,7 @@ My background includes professional and research experience in 3D printing. I am
 <div style="height: 20px;"></div>
 
 <div class="fullwidth-bg cosmology-bg">
-  <div class="bg-inner" markdown="1">
+  <div class="container-md" markdown="1">
     
 ### Cosmology
 
