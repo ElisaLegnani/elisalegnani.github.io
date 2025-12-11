@@ -1212,13 +1212,13 @@ button:focus {
   background-position: center;
   background-repeat: no-repeat;
 
-  padding: 60px 0;
+  padding: 0 !important;
 }
 
 .bg-inner {
-  max-width: 900px;      /* matches Beautiful Jekyll content width */
+  max-width: 720px;      /* matches Beautiful Jekyll content width */
   margin: 0 auto;
-  padding: 20px;
+  padding: 15px;
   position: relative;
   z-index: 1;
 }
