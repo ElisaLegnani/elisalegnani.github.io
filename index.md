@@ -34,7 +34,7 @@ For more details on my current projects and my interests in astrophysics and cos
   </div>
 </div>
 
-<div style="height: 10px;"></div>
+<div style="height: 15px;"></div>
 
 ### 3D print
 
