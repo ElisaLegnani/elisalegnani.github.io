@@ -12,11 +12,11 @@ I am a PhD student in Physics in the *Observational Cosmology* group at [IFAE](h
 
 My background includes professional and research experience in 3D printing. I am passionate about computer science, and I thoroughly enjoy problem-solving in general.
 
-<div style="height: 20px;"></div>
+<br>
 
 ## Research interests
 
-<br>
+<div style="height: 20px;"></div>
 
 <div class="fullwidth-bg cosmology-bg">
   <div class="bg-inner" markdown="1">
