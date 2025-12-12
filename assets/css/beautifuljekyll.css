@@ -1263,7 +1263,8 @@ button:focus {
 .timeline-item::before {
   content: "";
   position: absolute;
-  left: 7px; /* positions dot on the line */
+  left: 30px;                /* dot aligned exactly where line is */
+  transform: translate(-50%);
   top: 4px;
   width: 16px;
   height: 16px;
