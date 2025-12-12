@@ -1263,7 +1263,7 @@ button:focus {
 .timeline-item::before {
   content: "";
   position: absolute;
-  left: -24px;                /* dot aligned exactly where line is */
+  left: -24px; /* dot aligned exactly where line is */
   transform: translate(-50%);
   top: 4px;
   width: 12px;
@@ -1272,10 +1272,12 @@ button:focus {
   border-radius: 50%;
 }
 
-.timeline-date {
-  font-weight: bold;
-  display: block;
-  margin-bottom: 5px;
+.timeline-item {
+  position: relative;
+  margin-bottom: 25px;
+  display: flex;            /* EVERYTHING on one line */
+  align-items: center;      /* vertically centered */
+  gap: 15px;                /* space between date and text */
 }
 
 .timeline-text {
