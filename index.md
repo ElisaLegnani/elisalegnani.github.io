@@ -52,23 +52,19 @@ Here you can read my full [Curriculum Vitae](https://drive.google.com/file/d/1hq
 
 <div class="timeline">
   <div class="timeline-item">
-    <span class="timeline-date">2022–Present</span>
-    <p>PhD student in Physics at IFAE in Barcelona</p>
+    <span class="timeline-date">2022–Present</span> PhD student in Physics at IFAE in Barcelona
   </div>
 
   <div class="timeline-item">
-    <span class="timeline-date">2021–2022</span>
-    <p>Visiting student at Ludwig Maximilians University in Munich</p>
+    <span class="timeline-date">2021–2022</span> Visiting student at Ludwig Maximilians University in Munich
   </div>
 
   <div class="timeline-item">
-    <span class="timeline-date">2018–2022</span>
-    <p>Direct3D co-founder in Milan</p>
+    <span class="timeline-date">2018–2022</span> Direct3D co-founder in Milan
   </div>
 
   <div class="timeline-item">
-    <span class="timeline-date">2016–2022</span>
-    <p>Bcs and MSc in Physics at the University of Milan</p>
+    <span class="timeline-date">2016–2022</span> Bcs and MSc in Physics at the University of Milan
   </div>
 </div>
 
