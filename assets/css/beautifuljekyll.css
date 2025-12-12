@@ -1263,11 +1263,11 @@ button:focus {
 .timeline-item::before {
   content: "";
   position: absolute;
-  left: 30px;                /* dot aligned exactly where line is */
+  left: -24px;                /* dot aligned exactly where line is */
   transform: translate(-50%);
   top: 4px;
-  width: 16px;
-  height: 16px;
+  width: 12px;
+  height: 12px;
   background: #0085A1;
   border-radius: 50%;
 }
