@@ -1237,3 +1237,42 @@ button:focus {
   position: relative;
   z-index: 1;
 }
+
+.timeline {
+  position: relative;
+  margin: 40px 0;
+  padding-left: 40px; /* space for line + dots */
+}
+
+.timeline::before {
+  content: "";
+  position: absolute;
+  left: 15px;   /* line position */
+  top: 0;
+  width: 2px;
+  height: 100%;
+  background: #0085A1; /* line color */
+}
+
+.timeline-item {
+  position: relative;
+  margin-bottom: 30px;
+  padding-left: 20px; /* space between dot and text */
+}
+
+.timeline-item::before {
+  content: "";
+  position: absolute;
+  left: 7px; /* positions dot on the line */
+  top: 4px;
+  width: 16px;
+  height: 16px;
+  background: #0085A1;
+  border-radius: 50%;
+}
+
+.timeline-date {
+  font-weight: bold;
+  display: block;
+  margin-bottom: 5px;
+}
