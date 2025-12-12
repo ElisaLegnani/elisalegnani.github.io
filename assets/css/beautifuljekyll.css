@@ -1277,3 +1277,7 @@ button:focus {
   display: block;
   margin-bottom: 5px;
 }
+
+.timeline-text {
+  flex: 1;                  /* description fills remaining space */
+}
