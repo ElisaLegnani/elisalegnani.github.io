@@ -1,8 +1,8 @@
 title: Elisa Legnani
 description: 
 baseurl: "/new_website"
-url: "https://elisalegnani.github.io/new_website/"
-image_path: /new_website/assets/images
+url: "https://elisalegnani.github.io"
+image_path: /assets/images
 
 contact:
   - title: Email

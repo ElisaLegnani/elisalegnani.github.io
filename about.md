@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 <div class="avatar" align="left">
-  <img class="profile-img" src="https://raw.githubusercontent.com/ElisaLegnani/new_website/master/assets/images/elisa_2025.jpeg" width="240"/>
+  <img class="profile-img" src="/assets/images/elisa_2025.jpeg" width="240"/>
 </div>
 
 I am a PhD student in Physics in the *Observational Cosmology* group at [IFAE](https://www.ifae.es/groups/cosmology/) in Barcelona. I am interested in extracting insights from extensive galaxy survey data to deepen our understanding of the large-scale structure of the Universe. To achieve this, I develop innovative statistical methods and software solutions for data analysis.

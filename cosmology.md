@@ -13,7 +13,7 @@ The full list of my papers is available on [ADS](https://ui.adsabs.harvard.edu/s
 
 ---
 
-<img class="post-img" style="width:180px; float:right;" src="/assets/img/IAguide.png"/>
+<img class="post-img" style="width:180px; float:right;" src="https://raw.githubusercontent.com/ElisaLegnani/old_website/master/assets/img/IAguide.png"/>
 
 #### The IA Guide: A Breakdown of Intrinsic Alignment Formalisms
 
@@ -30,7 +30,7 @@ A condensed overview of common notations and concepts relevant for describing th
 
 ---
 
-<img class="post-img" style="width:200px; float:right;" src="/assets/img/blueshear.png"/>
+<img class="post-img" style="width:200px; float:right;" src="https://raw.githubusercontent.com/ElisaLegnani/old_website/master/assets/img/blueshear.png"/>
 
 #### Dark Energy Survey Year 3: Blue Shear
 <span class="small-text">
@@ -46,7 +46,7 @@ A cosmic shear reanalysis of the DES Y3 data limited to a pure sample of blue, s
 
 ---
 
-<img class="post-img" style="width:220px; float:right;" src="/assets/img/balrog.png"/>
+<img class="post-img" style="width:220px; float:right;" src="https://raw.githubusercontent.com/ElisaLegnani/old_website/master/assets/img/balrog.png"/>
 
 #### Dark Energy Survey Year 6 Results: Synthetic-Source Injection Across the Full Survey Using Balrog
 
@@ -62,7 +62,7 @@ A catalog of 146 million synthetic injections across the DES 5000 deg² footprin
 
 ---
 
-<img class="post-img" style="width:220px; margin-top:16px; float:right;" src="https://raw.githubusercontent.com/ElisaLegnani/new_website/style_edits/assets/images/magnification_paper.png"/>
+<img class="post-img" style="width:220px; margin-top:16px; float:right;" src="/assets/images/magnification_paper.png"/>
 
 #### Dark Energy Survey Year 6 Results: Magnification Modeling and its Impact on Galaxy Clustering and Galaxy-Galaxy Lensing Cosmology
 
