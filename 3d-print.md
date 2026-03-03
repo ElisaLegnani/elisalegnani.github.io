@@ -9,7 +9,12 @@ permalink: /3d-print/
 
 ## Direct3D
 
-Visit the Direrct3D [website](https://www.direct3d.it).
+I co-founded Direct3D, a startup dedicated to developing, manufacturing, and selling a **pellet extruder** for 3D printing.
+
+Compared to the traditional filament printing method, Direct3D pellet extruder enables our customers to increase productivity, select among a wider range of materials and reduce printing costs. For more information, visit our [website](https://www.direct3d.it) or find us on [LinkedIn](https://www.linkedin.com/company/direct3d-pellet-extrusion/).
+
+Our primary customers are R&D groups of industrial companies and universities in the plastics and 3D printing sectors. I have built and maintained professional relationships with clients, both for sales and technical assistance. Additionally, I have showcased our product at various trade fairs across Europe.
+
 
 ## Research in medical technologies
 

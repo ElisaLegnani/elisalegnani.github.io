@@ -9,7 +9,7 @@ permalink: /cv/
 
 <br>
 
-My **full CV** is available [here](https://drive.google.com/file/d/1hqm60XJ0-QDLmXFYZ1klpW1z_U_48r6b/view). Below, you can find my contact information and a brief summary.
+My **full CV** is available [here][CV]. Below, you can find my contact information and a brief summary.
 
 ## Contact me
 
@@ -17,26 +17,26 @@ My **full CV** is available [here](https://drive.google.com/file/d/1hqm60XJ0-QDL
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Campus UAB, Facultat Ciencies Nord  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 08193 Bellaterra (Barcelona), Spain 🇪🇸
 
-<i class="fa-solid fa-envelope" style="color:#818181+lighten(11%);"></i> [elegnani@ifae.es](mailto:elegnani97@gmail.com)
+<i class="fa-solid fa-envelope" style="color:#818181+lighten(11%);"></i> [elegnani@ifae.es][email]
 
 ## Work Experience
 
-- 2022–Present | **Institut de Física d'Altes Energies** ([IFAE](https://www.ifae.es/)), Barcelona 🇪🇸  
+- 2022–Present | **Institut de Física d'Altes Energies** ([IFAE]), Barcelona 🇪🇸  
   Position: Pre-doctoral Researcher  
-  Projects: [DES](https://www.darkenergysurvey.org/), [LSST DESC](https://lsstdesc.org/)  
+  Projects: [DES], [LSST DESC][LSST] 
 
 - 2018–2022 | **Direct3D**, Milan 🇮🇹  
   Position: Co-founder  
 
 ## Education
 
-- 2022–Present | **Institut de Física d'Altes Energies** ([IFAE](https://www.ifae.es/)), Barcelona 🇪🇸  
+- 2022–Present | **Institut de Física d'Altes Energies** ([IFAE]), Barcelona 🇪🇸  
   Degree (expected Sept 2026): PhD in Physics  
   Thesis: *Weak lensing and galaxy clustering with the Dark Energy Survey*  
 
 - 2021–2022 | **Ludwig Maximilians University**, Munich 🇩🇪  
   Award: Thesis Abroad scholarship  
-  Projects: [DES](https://www.darkenergysurvey.org/), [ACAI](https://www.physik.lmu.de/observatory/en/research/cosmology/acai-group/)
+  Projects: [DES], [ACAI]
 
 - 2016–2022 | **University of Milan**, Milan 🇮🇹  
   Degree: MSc in Physics  
@@ -45,4 +45,11 @@ My **full CV** is available [here](https://drive.google.com/file/d/1hqm60XJ0-QDL
 
   Degree: BSc in Physics  
   Thesis: *Additive fabrication of a vascular 3D phantom for stereotactic radiosurgery of arteriovenous malformations*
-  
+
+
+[CV]: https://drive.google.com/file/d/1hqm60XJ0-QDLmXFYZ1klpW1z_U_48r6b/view
+[DES]: https://www.darkenergysurvey.org/
+[ACAI]: https://www.physik.lmu.de/observatory/en/research/cosmology/acai-group/
+[IFAE]: https://www.ifae.es/
+[LSST]: https://lsstdesc.org/
+[email]: mailto:elegnani97@gmail.com
