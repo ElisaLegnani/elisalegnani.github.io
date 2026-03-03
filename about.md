@@ -12,7 +12,6 @@ I am a PhD student in Physics in the *Observational Cosmology* group at [IFAE](h
 
 My background includes professional and research experience in 3D printing. I am passionate about computer science, and I thoroughly enjoy problem-solving in general.
 
-<br>
 
 ### Beyond Research
 

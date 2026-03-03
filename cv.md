@@ -31,7 +31,7 @@ My **full CV** is available [here][CV]. Below, you can find my contact informati
 ## Education
 
 - 2022–Present | **Institut de Física d'Altes Energies** ([IFAE]), Barcelona 🇪🇸  
-  Degree (expected Sept 2026): PhD in Physics  
+  Degree (expected Fall 2026): PhD in Physics  
   Thesis: *Weak lensing and galaxy clustering with the Dark Energy Survey*  
 
 - 2021–2022 | **Ludwig Maximilians University**, Munich 🇩🇪  
