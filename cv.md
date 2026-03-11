@@ -9,15 +9,11 @@ permalink: /cv/
 
 <br>-->
 
-<<<<<<< HEAD
-My **full CV** is available [here][CV]. Below, you can find my contact information and a brief summary.
-=======
 View my CVs:
 - [Professional CV][CV] – Overview of my career and experience.  
 - [Extended Academic CV][AcademicCV] – Detailed record of my research, publications, and academic contributions. 
 
 You can also find my contact details and a short summary below.
->>>>>>> extra_content
 
 ## Contact me
 
