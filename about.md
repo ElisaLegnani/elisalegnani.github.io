@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 <div class="avatar" align="left">
-  <img class="profile-img" src="https://raw.githubusercontent.com/ElisaLegnani/new_website/master/assets/images/elisa_2025.jpeg" width="240"/>
+  <img class="profile-img" src="/assets/images/elisa_2025.jpeg" width="240"/>
 </div>
 
 I am a PhD student in Physics in the *Observational Cosmology* group at [IFAE](https://www.ifae.es/groups/cosmology/) in Barcelona. I am interested in extracting insights from extensive galaxy survey data to deepen our understanding of the large-scale structure of the Universe. To achieve this, I develop innovative statistical methods and software solutions for data analysis.
@@ -13,10 +13,10 @@ I am a PhD student in Physics in the *Observational Cosmology* group at [IFAE](h
 My background includes professional and research experience in 3D printing. I am passionate about computer science, and I thoroughly enjoy problem-solving in general.
 
 
-## Beyond Research
+### Beyond Research
 
-I am an outdoor activities enthusiast, particularly passionate of mountain trekking, cycling and climbing. 
+Outside the office, you’ll mostly find me in the mountains. I’ve spent a lot of time trekking, cycling, and climbing in the Alps and the Pyrenees---being surrounded by nature keeps me grounded and often pushes me to take a practical and creative approach to problems.
 
-<!---Spending time in nature — first in the Alps and now in the Pyrenees — has deepened my love for animals and plants, strengthened my resilience, and sharpened my ability to overcome challenges using simple means. When I need a break from constantly moving around, I enjoy drawing, reading, and photography as ways to express myself, as well as hands-on projects like DIY and repairs, exploring how things work and how they can be improved, embracing a reuse-and-repair mindset.
+When I’m not on the move, I enjoy drawing, reading, and photography. I’m also a big fan of the “repair and reuse” mindset---I like DIY projects and figuring out how things work (and occasionally how they could be improved).
 
-I also value education and community involvement, having taught and organized activities for young people — from private math and physics lessons to scout groups and summer programs for children. These experiences taught me a lot about finding ways to make scientific concepts engaging and accessible and collaborating with others.-->
+Education and community involvement have always been important to me. Whether teaching physics or leading a group of scouts, I enjoy the challenge of making complex ideas accessible and engaging, and working together in a team.

@@ -4,8 +4,8 @@ title: Cosmology
 permalink: /cosmology/
 ---
 
-* Table of Contents
-{:toc}
+<!--* Table of Contents
+{:toc}-->
 
 I am involved in the **weak lensing** analyses effort of the Dark Energy Survey ([DES]), the leading lensing experiment to date. DES has completed a six-year observing program, covering about one quarter of the southern sky and imaging over 200 million galaxies in five broadband filters. By observing how light from distant galaxies gets slightly distorted by intervening massive structures, we can map the matter distribution of our Universe and study its geometry and evolution over time. To distinguish between different models of our Universe, we need very accurate measurements, which requires carefully addressing various systematic errors. My work focuses on exploring and mitigating some of these errors, such as **intrinsic alignments** and **magnification**.
 
@@ -18,7 +18,7 @@ The full list of my papers is available on [ADS]. Below are the publications for
 
 ---
 
-<img class="post-img" style="width:180px; float:right;" src="/assets/img/IAguide.png"/>
+<img class="post-img" style="width:180px; float:right;" src="/assets/images/paper_IAguide.png"/>
 
 #### The IA Guide: A Breakdown of Intrinsic Alignment Formalisms
 
@@ -35,7 +35,7 @@ A condensed overview of common notations and concepts relevant for describing th
 
 ---
 
-<img class="post-img" style="width:200px; float:right;" src="/assets/img/blueshear.png"/>
+<img class="post-img" style="width:200px; float:right;" src="/assets/images/paper_blueshear.png"/>
 
 #### Dark Energy Survey Year 3: Blue Shear
 <span class="small-text">
@@ -51,7 +51,7 @@ A cosmic shear reanalysis of the DES Y3 data limited to a pure sample of blue, s
 
 ---
 
-<img class="post-img" style="width:220px; float:right;" src="/assets/img/balrog.png"/>
+<img class="post-img" style="width:220px; float:right;" src="/assets/images/paper_balrog.png"/>
 
 #### Dark Energy Survey Year 6 Results: Synthetic-Source Injection Across the Full Survey Using Balrog
 
@@ -67,7 +67,7 @@ A catalog of 146 million synthetic injections across the DES 5000 deg² footprin
 
 ---
 
-<img class="post-img" style="width:220px; margin-top:16px; float:right;" src="https://raw.githubusercontent.com/ElisaLegnani/new_website/style_edits/assets/images/magnification_paper.png"/>
+<img class="post-img" style="width:220px; margin-top:16px; float:right;" src="/assets/images/paper_magnification.png"/>
 
 #### Dark Energy Survey Year 6 Results: Magnification Modeling and its Impact on Galaxy Clustering and Galaxy-Galaxy Lensing Cosmology
 
