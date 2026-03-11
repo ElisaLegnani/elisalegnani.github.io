@@ -4,12 +4,20 @@ title: Curriculum Vitae
 permalink: /cv/
 ---
 
-* Table of Contents
+<!--* Table of Contents
 {:toc}
 
-<br>
+<br>-->
 
+<<<<<<< HEAD
 My **full CV** is available [here][CV]. Below, you can find my contact information and a brief summary.
+=======
+View my CVs:
+- [Professional CV][CV] – Overview of my career and experience.  
+- [Extended Academic CV][AcademicCV] – Detailed record of my research, publications, and academic contributions. 
+
+You can also find my contact details and a short summary below.
+>>>>>>> extra_content
 
 ## Contact me
 
@@ -46,8 +54,8 @@ My **full CV** is available [here][CV]. Below, you can find my contact informati
   Degree: BSc in Physics  
   Thesis: *Additive fabrication of a vascular 3D phantom for stereotactic radiosurgery of arteriovenous malformations*
 
-
 [CV]: https://drive.google.com/file/d/1hqm60XJ0-QDLmXFYZ1klpW1z_U_48r6b/view
+[AcademicCV]: https://drive.google.com/file/d/1hqm60XJ0-QDLmXFYZ1klpW1z_U_48r6b/view
 [DES]: https://www.darkenergysurvey.org/
 [ACAI]: https://www.physik.lmu.de/observatory/en/research/cosmology/acai-group/
 [IFAE]: https://www.ifae.es/
