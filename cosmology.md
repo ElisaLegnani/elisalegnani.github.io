@@ -22,7 +22,7 @@ The full list of my papers is available on [ADS]. Below are the publications for
 
 #### The IA Guide: A Breakdown of Intrinsic Alignment Formalisms
 
-<img class="post-img" style="width:180px; float:right; margin-top:-36px;" src="https://raw.githubusercontent.com/ElisaLegnani/old_website/master/assets/img/IAguide.png"/>
+<img class="post-img" style="width:180px; float:right; margin-top:-36px;" src="/assets/images/paper_IAguide.png"/>
 
 <span class="small-text">
 C. Lamman, E. Tsaprazi, J. Shi, N. Šarčević, S. Pyne, E. Legnani, T. Ferreira  
@@ -38,7 +38,7 @@ A condensed overview of common notations and concepts relevant for describing th
 
 #### Dark Energy Survey Year 3: Blue Shear
 
-<img class="post-img" style="width:200px; float:right; margin-top:-36px;" src="https://raw.githubusercontent.com/ElisaLegnani/old_website/master/assets/img/blueshear.png"/>
+<img class="post-img" style="width:200px; float:right; margin-top:-36px;" src="/assets/images/paper_blueshear.png"/>
 
 <span class="small-text">
 J. McCullough, A. Amon, E. Legnani, D. Gruen, et al.  
@@ -55,7 +55,7 @@ A cosmic shear reanalysis of the DES Y3 data limited to a pure sample of blue, s
 
 #### Dark Energy Survey Year 6 Results: Synthetic-Source Injection Across the Full Survey Using Balrog
 
-<img class="post-img" style="width:220px; float:right; margin-top:-32px;" src="https://raw.githubusercontent.com/ElisaLegnani/old_website/master/assets/img/balrog.png"/>
+<img class="post-img" style="width:220px; float:right; margin-top:-32px;" src="/assets/images/paper_balrog.png"/>
 
 <span class="small-text">
 D. Anbajagane, M. Tabbutt, et al. (incl. E. Legnani)  
