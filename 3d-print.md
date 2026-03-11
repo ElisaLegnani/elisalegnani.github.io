@@ -34,3 +34,9 @@ Manufacturing of realistic 3D cerebrovascular phantoms that replicate brain arte
 <a href="https://www.liebertpub.com/doi/10.1089/3dp.2020.0305" class="button" target="_blank" rel="noopener noreferrer">Paper</a>
 
 ---
+
+<!-- I developed and tested an **efficient method to create realistic 3D cerebrovascular phantoms** replicating brain arteriovenous malformations for stereotactic radiosurgery.  
+
+Patient brain CT data were processed and 3D-printed using tissue-equivalent materials. The phantoms’ radiological response was tested and compared with the original clinical data, showing promising results for **radiosurgery pre-planning, quality assurance, and medical research**.  
+
+This project was conducted at the Interdisciplinary Centre for Nanostructured Materials and Interfaces (CIMaINa) as part of the PRINTMED-3D initiative at the University of Milan.-->

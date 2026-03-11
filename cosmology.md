@@ -71,7 +71,7 @@ A catalog of 146 million synthetic injections across the DES 5000 deg² footprin
 
 #### Dark Energy Survey Year 6 Results: Magnification Modeling and its Impact on Galaxy Clustering and Galaxy-Galaxy Lensing Cosmology
 
-<img class="post-img" style="width:220px; float:right; margin-top:-28px;" src="/assets/images/magnification_paper.png"/>
+<img class="post-img" style="width:220px; float:right; margin-top:-28px;" src="/assets/images/paper_magnification.png"/>
 
 <span class="small-text">
 E. Legnani, et al.  
