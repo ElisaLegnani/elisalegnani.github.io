@@ -9,7 +9,7 @@ permalink: /cosmology/
 
 <br>
 
-I am involved in the **weak lensing** analyses effort of the Dark Energy Survey ([DES]), the leading lensing experiment to date. DES has completed a six-year observing program, covering about one quarter of the southern sky and imaging over 200 million galaxies in five broadband filters. By observing how light from distant galaxies gets slightly distorted by intervening massive structures, we can map the matter distribution of our Universe and study its geometry and evolution over time. To distinguish between different models of our Universe, we need very accurate measurements, which requires carefully addressing various systematic errors. My work focuses on exploring and mitigating some of these errors, such as **intrinsic alignments** and **magnification**.
+I am involved in the **weak lensing** analyses effort of the Dark Energy Survey ([DES]), the leading lensing experiment to date. DES has completed a six-year observing program, covering about one quarter of the southern sky and imaging over 200 million galaxies in five broadband filters. By observing how light from distant galaxies gets slightly distorted by intervening massive structures, we can map the matter distribution of our Universe and study its geometry and evolution over time. To distinguish between different models of our Universe, we need very accurate measurements, which requires carefully addressing various systematic effects. My work focuses on exploring and mitigating some of these effects, such as **intrinsic alignments** and **magnification**.
 
 I am also working on the preparation of one of the most ambitious high-precision full-sky galaxy surveys of this decade, the Legacy Survey of Space and Time ([LSST]), which will provide a sample of over 3 billion galaxies for lensing studies and unprecedented precision in constraining the cosmological model.
 
@@ -20,9 +20,9 @@ The full list of my papers is available on [ADS]. Below are the publications for
 
 ---
 
-<img class="post-img" style="width:180px; float:right;" src="https://raw.githubusercontent.com/ElisaLegnani/old_website/master/assets/img/IAguide.png"/>
-
 #### The IA Guide: A Breakdown of Intrinsic Alignment Formalisms
+
+<img class="post-img" style="width:180px; float:right; margin-top:-36px;" src="https://raw.githubusercontent.com/ElisaLegnani/old_website/master/assets/img/IAguide.png"/>
 
 <span class="small-text">
 C. Lamman, E. Tsaprazi, J. Shi, N. Šarčević, S. Pyne, E. Legnani, T. Ferreira  
@@ -37,9 +37,10 @@ A condensed overview of common notations and concepts relevant for describing th
 
 ---
 
-<img class="post-img" style="width:200px; float:right;" src="https://raw.githubusercontent.com/ElisaLegnani/old_website/master/assets/img/blueshear.png"/>
-
 #### Dark Energy Survey Year 3: Blue Shear
+
+<img class="post-img" style="width:200px; float:right; margin-top:-36px;" src="https://raw.githubusercontent.com/ElisaLegnani/old_website/master/assets/img/blueshear.png"/>
+
 <span class="small-text">
 J. McCullough, A. Amon, E. Legnani, D. Gruen, et al.  
 arXiv (journal TBD), Oct 2024
@@ -53,9 +54,9 @@ A cosmic shear reanalysis of the DES Y3 data limited to a pure sample of blue, s
 
 ---
 
-<img class="post-img" style="width:220px; float:right;" src="https://raw.githubusercontent.com/ElisaLegnani/old_website/master/assets/img/balrog.png"/>
-
 #### Dark Energy Survey Year 6 Results: Synthetic-Source Injection Across the Full Survey Using Balrog
+
+<img class="post-img" style="width:220px; float:right; margin-top:-32px;" src="https://raw.githubusercontent.com/ElisaLegnani/old_website/master/assets/img/balrog.png"/>
 
 <span class="small-text">
 D. Anbajagane, M. Tabbutt, et al. (incl. E. Legnani)  
@@ -69,9 +70,9 @@ A catalog of 146 million synthetic injections across the DES 5000 deg² footprin
 
 ---
 
-<img class="post-img" style="width:220px; margin-top:16px; float:right;" src="/assets/images/magnification_paper.png"/>
-
 #### Dark Energy Survey Year 6 Results: Magnification Modeling and its Impact on Galaxy Clustering and Galaxy-Galaxy Lensing Cosmology
+
+<img class="post-img" style="width:220px; float:right; margin-top:-28px;" src="/assets/images/magnification_paper.png"/>
 
 <span class="small-text">
 E. Legnani, et al.  

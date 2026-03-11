@@ -20,9 +20,9 @@ Our primary customers are R&D groups of industrial companies and universities in
 
 ---
 
-<img class="post-img" style="width:200px; margin-top:16px; float:right;" src="https://raw.githubusercontent.com/ElisaLegnani/old_website/master/assets/img/mav.jpg"/>
-
 #### Additive fabrication of a vascular 3D phantom for stereotactic radiosurgery of arteriovenous malformations
+
+<img class="post-img" style="width:200px; float:right; margin-top:-16px;" src="https://raw.githubusercontent.com/ElisaLegnani/old_website/master/assets/img/mav.jpg"/>
 
 <span class="small-text">
 E. Legnani, et al.  

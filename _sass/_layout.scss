@@ -38,6 +38,21 @@
   color: $brand-color;
 }
 
+.post-img {
+  margin: 0.5rem;
+}
+
+/* for the imagge to move below the title on mobile */
+@media (max-width: 700px) {
+  .post-img {
+    float: none;
+    display: block;
+    margin: 0.5rem 0 0.5rem 0.5rem !important;  
+    width: 100%;
+    text-align: center;
+  }
+}
+
 
 
 /**
