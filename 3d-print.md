@@ -15,6 +15,8 @@ Compared to the traditional filament printing method, Direct3D pellet extruder e
 
 Our primary customers are R&D groups of industrial companies and universities in the plastics and 3D printing sectors. I have built and maintained professional relationships with clients, both for sales and technical assistance. Additionally, I have showcased our product at various trade fairs across Europe.
 
+<img src="/assets/images/direct3d.png"/>
+
 
 ## Medical 3D printing and research
 
