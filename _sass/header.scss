@@ -64,15 +64,11 @@
   .nav-item {
     display: inline-block;
     color: $text-color;
-    margin-right: $spacing-unit * 0.5;
+    margin-left: $spacing-unit * 0.5;
 
     &:hover {
       color: $link-hover-color;
       text-decoration: none;
-    }
-
-    &:last-child {
-      margin-right: 0;
     }
   }
 
