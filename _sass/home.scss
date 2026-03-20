@@ -3,7 +3,7 @@
  */
  .home-image-container {
   width: 100%;
-  height: 150px;
+  height: 250px;
   margin-left: auto;
   margin-right: auto;
   margin-top: 1rem;
@@ -16,6 +16,7 @@
   border-radius: 0.3rem;
   object-fit: cover;
   display: block;
+  object-position: left center;
 }
 
 .topic-container {
