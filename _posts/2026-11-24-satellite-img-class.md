@@ -5,7 +5,7 @@ date:   2026-11-24
 categories: website
 ---
 
-![Web app classifying a satellite image](https://raw.githubusercontent.com/ElisaLegnani/satellite-image-classifier/main/docs/images/app_screenshot.png)
+![Web app classifying a satellite image](https://raw.githubusercontent.com/ElisaLegnani/satellite-image-classifier/master/docs/images/app_screenshot.png)
 
 [Satellite Image Classification](https://github.com/ElisaLegnani/satellite-image-classifier) is a small machine-learning application that classifies satellite image patches into 10 land-cover categories, such as forest, river or highway.
 
@@ -27,7 +27,8 @@ You upload a satellite image in a web app and get back the predicted land-cover 
 
 On the held-out test set the model reaches 80% accuracy and a macro F1-score of 0.79. Forest, Residential and SeaLake are the easiest classes (F1 ≥ 0.92). Highway is the hardest (F1 = 0.49), followed by River and PermanentCrop.
 
-<img src="/assets/images/confusion_matrix_test.png" alt="Confusion matrix on the test set" width="500">
+<img src="https://raw.githubusercontent.com/ElisaLegnani/satellite-image-classifier/master/artifacts/confusion_matrix_test.png" alt="Confusion matrix on the test set" width="600">
+
 
 These are not state-of-the-art numbers, and that's fine for this project. Possible next steps are data augmentation, a pretrained backbone, or a larger and more recent training dataset.
 
