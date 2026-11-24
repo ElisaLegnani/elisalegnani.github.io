@@ -5,16 +5,36 @@ date:   2026-02-27
 categories: website
 ---
 
-{% highlight ruby %}
+I built this website with [Jekyll][jekyll-docs], a static site generator that works natively with GitHub Pages. Content is written in Markdown, and a flexible templating system handles the layout.
+
+## Getting started
+
+After installing the requirements (the Jekyll docs have a detailed guide), install the site dependencies:
+
+{% highlight bash %}
 bundle install
 {% endhighlight %}
 
-{% highlight ruby %}
+Then start the local server:
+
+{% highlight bas  %}
 bundle exec jekyll serve
 {% endhighlight %}
 
+Your site is now live at `http://localhost:4000`, and it rebuilds as you edit, so you can experiment in real time.
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh].
+## Theme and customization
 
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
+I started from the Minima theme, which provides a basic layout, typography, and responsive design out of the box. To make it my own, I:
+
+- inspected other websites with browser developer tools,
+- recreated and adjusted spacing, typography, colors, and fonts, and
+- experimented locally until the design felt right.
+
+This hands-on process taught me a lot about HTML structure, CSS rules, and how static sites behave in practice.
+
+## Deployment
+
+I deployed the site on GitHub Pages, which builds and hosts Jekyll sites straight from the repository. Every push updates the live site, so maintenance is minimal.
+
+[jekyll-docs]: https://jekyllrb.com/docs
