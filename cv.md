@@ -49,7 +49,7 @@ You can also find my contact details and a short summary below.
   Degree: BSc in Physics  
   Thesis: *Additive fabrication of a vascular 3D phantom for stereotactic radiosurgery of arteriovenous malformations*
 
-[CV]: https://drive.google.com/file/d/1hqm60XJ0-QDLmXFYZ1klpW1z_U_48r6b/view?usp=drive_link
+[CV]: https://drive.google.com/file/d/1K_8252ioE7FwNUv3T8bQurEeUEWPF-Zo/view?usp=drive_link
 [AcademicCV]: https://drive.google.com/file/d/1QuMkz3zYP2imwqfHXvPv6iHM-Nu-IX2I/view?usp=sharing
 [DES]: https://www.darkenergysurvey.org/
 [ACAI]: https://www.physik.lmu.de/observatory/en/research/cosmology/acai-group/
