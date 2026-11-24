@@ -16,6 +16,10 @@ I am also working on the preparation of one of the most ambitious high-precision
 
 ## Publications
 
+<a href="https://orcid.org/0000-0001-7079-3796" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/ORCID-0000--0001--7079--3796-A6CE39?style=flat&logo=orcid&logoColor=white" alt="ORCID iD 0000-0001-7079-3796">
+</a>
+
 The full list of my papers is available on [ADS]. Below are the publications for which I was the lead author or made significant contributions.
 
 ---
@@ -31,7 +35,7 @@ The Open Journal of Astrophysics, Feb 2023
 
 A condensed overview of common notations and concepts relevant for describing the intrinsic alignment (IA) of galaxies.  
 
-<a href="https://astro.theoj.org/article/94228-the-ia-guide-a-breakdown-of-intrinsic-alignment-formalisms" class="button" target="_blank" rel="noopener noreferrer">Paper</a>
+<a href="https://doi.org/10.21105/astro.2309.08605" class="button" target="_blank" rel="noopener noreferrer">Paper</a>
 <a href="https://arxiv.org/pdf/2309.08605v2" class="button" target="_blank" rel="noopener noreferrer">📄 PDF</a>
 
 ---
@@ -42,12 +46,12 @@ A condensed overview of common notations and concepts relevant for describing th
 
 <span class="small-text">
 J. McCullough, A. Amon, E. Legnani, D. Gruen, et al.  
-arXiv (journal TBD), Oct 2024
+Physical Review D, May 2026
 </span>
 
 A cosmic shear reanalysis of the DES Y3 data limited to a pure sample of blue, star-forming galaxies, which is expected to be less impacted by IA.  
 
-<a href="https://ui.adsabs.harvard.edu/abs/2024arXiv241022272M/abstract" class="button" target="_blank" rel="noopener noreferrer">Paper</a>
+<a href="https://doi.org/10.1103/wmp3-qc3p" class="button" target="_blank" rel="noopener noreferrer">Paper</a>
 <a href="https://arxiv.org/pdf/2410.22272" class="button" target="_blank" rel="noopener noreferrer">📄 PDF</a>
 <a href="https://jamiemccullough.github.io/data/blueshear/" class="button" target="_blank" rel="noopener noreferrer">Data</a>
 
@@ -64,7 +68,7 @@ The Open Journal of Astrophysics, May 2025
 
 A catalog of 146 million synthetic injections across the DES 5000 deg² footprint to characterize image processing and support DES Y6 cosmology analyses.  
 
-<a href="https://astro.theoj.org/article/138627-dark-energy-survey-year-6-results-synthetic-source-injection-across-the-full-survey-using-balrog" class="button" target="_blank" rel="noopener noreferrer">Paper</a>
+<a href="https://doi.org/10.33232/001c.138627" class="button" target="_blank" rel="noopener noreferrer">Paper</a>
 <a href="https://arxiv.org/pdf/2501.05683v3" class="button" target="_blank" rel="noopener noreferrer">📄 PDF</a>
 
 ---
@@ -75,13 +79,30 @@ A catalog of 146 million synthetic injections across the DES 5000 deg² footprin
 
 <span class="small-text">
 E. Legnani, et al.  
-arXiv (journal TBD), Jan 2026
+Physical Review D, June 2026
 </span>
 
 Analysis of the impact of gravitational lensing magnification on DES Y6 galaxy clustering and galaxy–galaxy lensing measurements, using synthetic source injection to model magnification bias and ensure unbiased cosmological constraints.  
 
-<a href="https://ui.adsabs.harvard.edu/abs/2026arXiv260114833L/abstract" class="button" target="_blank" rel="noopener noreferrer">Paper</a>
+<a href="https://doi.org/10.1103/rpdb-7zyn" class="button" target="_blank" rel="noopener noreferrer">Paper</a>
 <a href="https://arxiv.org/pdf/2601.14833" class="button" target="_blank" rel="noopener noreferrer">📄 PDF</a>
+
+---
+
+#### Dark Energy Survey Year 6 Results: Cosmological Constraints from Galaxy Clustering and Weak Lensing
+
+<img class="post-img" style="width:220px; float:right; margin-top:-28px;" src="/assets/images/paper_3x2pt.png"/>
+
+<span class="small-text">
+DES Collaboration (incl. E. Legnani)  
+Physical Review D, Nov 2026
+</span>
+
+Combined cosmological constraints from the full six-year DES dataset, using galaxy clustering, galaxy-galaxy lensing and cosmic shear (3x2pt) to constrain the matter density and clustering amplitude.
+
+<a href="https://doi.org/10.1103/nnlj-gyr2" class="button" target="_blank" rel="noopener noreferrer">Paper</a>
+<a href="https://arxiv.org/pdf/2601.14559" class="button" target="_blank" rel="noopener noreferrer">📄 PDF</a>
+<a href="https://des.ncsa.illinois.edu/releases/y6a2/Y6key-products" class="button" target="_blank" rel="noopener noreferrer">Data</a>
 
 ---
 
