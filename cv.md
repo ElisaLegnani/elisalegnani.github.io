@@ -26,17 +26,17 @@ You can also find my contact details and a short summary below.
 ## Work Experience
 
 - 2022–Present | **Institut de Física d'Altes Energies** ([IFAE]), Barcelona 🇪🇸  
-  Position: Pre-doctoral Researcher  
+  Position: Researcher  
   Projects: [DES], [LSST DESC][LSST] 
 
-- 2018–2022 | **Direct3D**, Milan 🇮🇹  
+- 2018–2022 | **[Direct3D]**, Milan 🇮🇹  
   Position: Co-founder  
 
 ## Education
 
-- 2022–Present | **Institut de Física d'Altes Energies** ([IFAE]), Barcelona 🇪🇸  
-  Degree (expected Fall 2026): PhD in Physics  
-  Thesis: *Weak lensing and galaxy clustering with the Dark Energy Survey*  
+- 2022–2026 | **Institut de Física d'Altes Energies** ([IFAE]), Barcelona 🇪🇸  
+  Degree: PhD in Physics  
+  Thesis: *Weak lensing and galaxy clustering cross-correlations in the Dark Energy Survey:from systematics mitigation to precision cosmology*  
 
 - 2021–2022 | **Ludwig Maximilians University**, Munich 🇩🇪  
   Award: Thesis Abroad scholarship  
@@ -44,7 +44,6 @@ You can also find my contact details and a short summary below.
 
 - 2016–2022 | **University of Milan**, Milan 🇮🇹  
   Degree: MSc in Physics  
-  Focus: Astrophysics, Statistics, Computer Science  
   Thesis: *Distinguishing Dark Energy Survey Year 3 lensing source galaxies by physical properties using artificial intelligence for improved intrinsic alignment modelling*  
 
   Degree: BSc in Physics  
@@ -57,3 +56,4 @@ You can also find my contact details and a short summary below.
 [IFAE]: https://www.ifae.es/
 [LSST]: https://lsstdesc.org/
 [email]: mailto:elegnani97@gmail.com
+[Direct3D]: https://www.direct3d.it/
