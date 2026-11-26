@@ -3,6 +3,7 @@ description:
 baseurl: ""
 url: "https://elisalegnani.github.io/"
 image_path: /assets/images
+repository: elisalegnani/elisalegnani.github.io
 
 contact:
   - title: Email
