@@ -1,8 +1,11 @@
 ---
 layout: post
-title:  "Project on photorealistic rendering"
+title:  "Photorealistic rendering"
 date:   2026-03-14
 categories: website
+description: A C++ raytracing library for rendering photorealistic scenes.
+image: /assets/images/img-photorealistic.png
+image_alt: Photorealistic scene rendered with the raytracing library
 ---
 
 <p align="center">

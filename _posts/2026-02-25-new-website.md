@@ -3,6 +3,9 @@ layout: post
 title:  "My new website"
 date:   2026-02-27
 categories: website
+description: Notes on building and publishing this personal website with Jekyll and GitHub Pages.
+image: /assets/images/coding.JPG
+image_alt: Code displayed on a screen
 ---
 
 I built this website with [Jekyll][jekyll-docs], a static site generator that works natively with GitHub Pages. Content is written in Markdown, and a flexible templating system handles the layout.

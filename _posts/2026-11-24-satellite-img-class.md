@@ -1,8 +1,11 @@
 ---
 layout: post
-title:  "Project on satellite image classification"
+title:  "Satellite image classification"
 date:   2026-11-24
 categories: website
+description: A small machine-learning app that classifies satellite image patches into land-cover categories, served through a web interface.
+image: https://raw.githubusercontent.com/ElisaLegnani/satellite-image-classifier/master/docs/images/app_screenshot.png
+image_alt: Satellite image classification web app
 ---
 
 ![Web app classifying a satellite image](https://raw.githubusercontent.com/ElisaLegnani/satellite-image-classifier/master/docs/images/app_screenshot.png)
