@@ -29,19 +29,21 @@ layout: base
             </a>
           </h3>
         </div>
-        <span class="post-meta coding-post-meta">{{ post.date | date: date_format }}</span>
-        <div class="coding-post-copy">
-          {% if post.description %}
-            <p class="coding-post-description">{{ post.description | escape }}</p>
-          {% elsif site.minima.show_excerpts %}
-            {{ post.excerpt }}
+        <div class="coding-post-details">
+          <div class="coding-post-copy">
+            <span class="post-meta coding-post-meta">{{ post.date | date: date_format }}</span>
+            {% if post.description %}
+              <p class="coding-post-description">{{ post.description | escape }}</p>
+            {% elsif site.minima.show_excerpts %}
+              {{ post.excerpt }}
+            {% endif %}
+          </div>
+          {% if post.image %}
+            <a class="coding-post-image" href="{{ post.url | relative_url }}" aria-label="Read {{ post.title | escape }}">
+              <img src="{{ post.image }}" alt="{{ post.image_alt | default: post.title | escape }}" loading="lazy">
+            </a>
           {% endif %}
         </div>
-        {% if post.image %}
-          <a class="coding-post-image" href="{{ post.url | relative_url }}" aria-label="Read {{ post.title | escape }}">
-            <img src="{{ post.image }}" alt="{{ post.image_alt | default: post.title | escape }}" loading="lazy">
-          </a>
-        {% endif %}
       </li>
       {%- endfor -%}
     </ul>
